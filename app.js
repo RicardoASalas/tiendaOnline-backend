@@ -9,6 +9,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
+
 var app = express();
 
 // view engine setup
@@ -33,7 +34,7 @@ app.use('/users', usersRouter);
 // app.use(function(err, req, res, next) {
 //   // set locals, only providing error in development
 //   res.locals.message = err.message;
-//   res.locals.error = req.app.get('env') === 'development' ? err : {};
+//   res.locals.error = req.app.get('ewnv') === 'development' ? err : {};
 
 //   // render the error page
 //   res.status(err.status || 500);
