@@ -41,6 +41,6 @@ app.use('/users', usersRouter);
 //   res.render('error');
 // });
 
-db.sequelize.sync({ force: true });
+db.sequelize.sync({ /*force: true */});
 
 module.exports = app;

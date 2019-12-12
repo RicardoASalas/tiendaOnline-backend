@@ -23,6 +23,7 @@ module.exports = {
     price: product.price,
     image: product.image,
     description: product.description,
+    stock: Math.floor(Math.random() * (10 - 1) + 1),
     createdAt: new Date,
     updatedAt: new Date
   })
