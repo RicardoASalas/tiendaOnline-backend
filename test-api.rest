@@ -1,0 +1,35 @@
+@baseUrl =http://localhost:3000
+@authorization = Bearer {{login.response.body.token}}
+
+
+### REGISTER
+# @name register
+POST {{baseUrl}}/auth/register
+Accept: application/json
+Content-Type: application/json
+
+{
+    "userName": "holaamigos",
+    "email": "juan2@geekshubs.om",
+    "password": "qwerty:A12",
+    "country": "Japan"
+}
+
+
+
+### LOGIN
+# @name login
+POST {{baseUrl}}/auth/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "juan2@geekshubs.om",
+    "password": "qwerty:A12"
+}
+
+
+###
+GET {{baseUrl}}/auth/logout
+Accept: application/json
+Authorization: {{authorization}}
