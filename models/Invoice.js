@@ -2,8 +2,7 @@
 module.exports = (sequelize, DataTypes) => {
   const Invoice = sequelize.define('Invoice', {
     date: DataTypes.STRING,
-    total_amount: DataTypes.INTEGER,
-    user_id: DataTypes.INTEGER
+    totalAmount: DataTypes.INTEGER
   }, {});
   Invoice.associate = function(models) {
     // associations can be defined here
@@ -12,6 +11,7 @@ module.exports = (sequelize, DataTypes) => {
       as: 'products',
       foreignKey: 'InvoiceId',
     })
+    Invoice.belongsTo(models.User)
   };
   return Invoice;
 };
