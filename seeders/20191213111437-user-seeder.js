@@ -1,8 +1,8 @@
 'use strict';
 const fs = require('fs');
-const Product = require('../models/Product')
+const User = require('../models/User')
 
-const db = JSON.parse(fs.readFileSync('./db/musicDB.json', 'utf-8'));
+const db = JSON.parse(fs.readFileSync('./db/userDb.json', 'utf-8'));
 
 module.exports = {
   up: (queryInterface, Sequelize) => {
@@ -16,21 +16,22 @@ module.exports = {
         isBetaMember: false
       }], {});
     */
-   let mapped = db.map(product => ({
-    name: product.name,
-    brand: product.brand,
-    category: product.category,
-    price: product.price,
-    image: product.image,
-    description: product.description,
-    stock: Math.floor(Math.random() * (10 - 1) + 1),
+   let mapped = db.map(user => ({
+    userName: user.userName,
+    password: user.password,
+    address: user.address,
+    email: user.email,
+    country: user.country,
+    creditcardNumber: user.creditcardNumber,
+    creditcardType: user.creditcardType,
+    token: null,
     createdAt: new Date,
     updatedAt: new Date
   })
   )
   console.log(mapped);
   
-   return queryInterface.bulkInsert('Products', mapped)
+   return queryInterface.bulkInsert('Users', mapped)
   },
 
   down: (queryInterface, Sequelize) => {
@@ -41,6 +42,6 @@ module.exports = {
       Example:
       return queryInterface.bulkDelete('People', null, {});
     */
-   return Product.destroy({where: {}})
+   return User.destroy({where: {}})
   }
 };
