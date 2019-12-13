@@ -1,6 +1,6 @@
 function isValidPassword (password) {
 
-    const enoughCharacters = password.length >= 8;
+    const enoughCharacters = password.length >= 6;
     const containsUpperCase = (/[A-Z]/).test(password);
     const containLowerCase = /[a-z]/.test(password);
     const containNumbers = /[0-9]/.test(password);
