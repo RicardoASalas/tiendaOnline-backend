@@ -1,0 +1,4002 @@
+[{
+        "name": "PSR-EW410",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 368,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/432930.jpg",
+        "description": "Sucesor del PSR-EW400 76 con sensibilidad dinámica 758 sonidos"
+    },
+    {
+        "name": "PSR-A3000",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 1519,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas con sensibilidad dinámica Polifonía de 128 voces 997 voces + 58 Drum/SFX Kits + 480 voces XG"
+    },
+    {
+        "name": "DGX-660 WH",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 748,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/374614.jpg",
+        "description": "88 teclas con teclado GHS Motor de sonido Pure CF Sound Engine Intelligent Acoustic Control (IAC)"
+    },
+    {
+        "name": "YPT-260",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 125,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas estándar 384 sonidos + 16 Kits Drum/SFX 130 estilos Preset"
+    },
+    {
+        "name": "PSR-SX900",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 2129,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379641.jpg",
+        "description": "61 teclas con sensibilidad dinámica Nuevo teclado FSB 1337 voces + 56 kits Drum/SFX + 480 voces XG"
+    },
+    {
+        "name": "CT-S200 RD",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 135,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas Polifonía de 48 voces 400 sonidos"
+    },
+    {
+        "name": "PSR-E463",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 285,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/442243.jpg",
+        "description": "Sucesor del PSR-E453 61 teclas de tamaño estándar con sensibilidad dinámica 758 sonidos"
+    },
+    {
+        "name": "PA-1000",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 1755,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas semicontrapesadas con velocidad y aftertouch Polifonía de 128 notas EDS-X (Enhanced Definition Synthesis - eXpanded)"
+    },
+    {
+        "name": "PA-300",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 539,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/471242.jpg",
+        "description": "61 teclas con dinámica sensible Polifonía de 128 voces 3-Band EQ para cada pista"
+    },
+    {
+        "name": "CT-X700",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas sensibles al tacto Polifonía de 48 notas Fuente de sonido AiX"
+    },
+    {
+        "name": "PSR-A350",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 329,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/470744.jpg",
+        "description": "61 teclas sensibles al tacto 613 sonidos (incluye 45 Voces Orientales y Kits de Batería Orientales) 210 estilos (incluye 115 estilos orientales)"
+    },
+    {
+        "name": "EZ-220",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 188,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "61 teclas con iluminación 392 sonoridades 100 estilos"
+    },
+    {
+        "name": "PSR-E363",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 175,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/432932.jpg",
+        "description": "61 teclas sensibles al tacto 574 sonidos (18 kits de batería/SFX / 20 arpegios / 339 XGlite) 165 estilos"
+    },
+    {
+        "name": "PSR-S670",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas sensibles al tacto Polifonía de 128 notas 416 sonidos + 34 kits de batería/SFX + 480 voces XG"
+    },
+    {
+        "name": "PA-700",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 1075,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/421691.jpg",
+        "description": "61 teclas con respuesta al tacto Polifonía de 128 notas EDS-X (Enhanced Definition Synthesis - eXpanded)"
+    },
+    {
+        "name": "DGX-660 B",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 745,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "88 teclas con teclado GHS Motor de sonido Pure CF Sound Engine Intelligent Acoustic Control (IAC)"
+    },
+    {
+        "name": "PSR-EW300",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 258,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/335857.jpg",
+        "description": "76 teclas sensibles 574 sonidos Polifonía de 48 voces"
+    },
+    {
+        "name": "PA-600",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 679,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "61 teclas con dinámica sensible Polifonía de 128 voces 3-Band EQ para cada pista"
+    },
+    {
+        "name": "MK-300",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 115,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/431514.jpg",
+        "description": "61 teclas con respuesta al tacto 64 notas de polifonía 390 voces"
+    },
+    {
+        "name": "GO:KEYS",
+        "brand": "Roland",
+        "category": "keyboard",
+        "price": 285,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "61 teclas (con forma de caja y tacto de marfil, con velocidad) 128 voces de polifonía Bluetooth 4.2"
+    },
+    {
+        "name": "PA-700 Oriental",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 1349,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/394414.jpg",
+        "description": "61 teclas con respuesta al tacto Polifonía de 128 notas EDS-X (Enhanced Definition Synthesis - eXpanded)"
+    },
+    {
+        "name": "SA 46",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 38,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "32 teclas mini Polifonía de 8 voces 100 sonidos"
+    },
+    {
+        "name": "CTK-1500",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 77,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/280112.jpg",
+        "description": "Teclado con 61 teclas Polifonía de 32 voces 120 sonidos"
+    },
+    {
+        "name": "LK-280",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 211,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas iluminadas sensibles al tacto 48 notas de polifonía 600 sonidos"
+    },
+    {
+        "name": "SA 78",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 55,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411430.jpg",
+        "description": "44 teclas mini 8 notas de polifonía 100 sonidos"
+    },
+    {
+        "name": "EK-50",
+        "brand": "Korg",
+        "category": "keyboard",
+        "price": 299,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas con respuesta al tacto Controles iluminados Pantalla LCD con más de 700 sonidos (256 STS)"
+    },
+    {
+        "name": "BK-5",
+        "brand": "Roland",
+        "category": "keyboard",
+        "price": 755,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/361743.jpg",
+        "description": "61 teclas sensibles 1.172 sonidos 60 patrones de batería"
+    },
+    {
+        "name": "SA 76",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "44 teclas mini Polifonía de 8 voces 100 sonidos"
+    },
+    {
+        "name": "PSR-E263",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 139,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/421697.jpg",
+        "description": "61 teclas 384 sonidos + 16 kits de baterías/SFX 130 estilos preestablecidos"
+    },
+    {
+        "name": "EZ-220 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 255,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "Teclado Arreglista 61 teclas con iluminación 392 sonoridades"
+    },
+    {
+        "name": "EZ-220 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 199,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379638.jpg",
+        "description": "Teclado Arreglista 61 teclas con iluminación 392 sonoridades"
+    },
+    {
+        "name": "CT-X5000",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 359,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "61 teclas con sensibilidad dinámica Polifonía de 64 voces Generador de sonido AiX"
+    },
+    {
+        "name": "EZ-220 B-Stock",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 162,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411434.jpg",
+        "description": "61 teclas con iluminación 392 sonoridades 100 estilos"
+    },
+    {
+        "name": "SA 77",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 55,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "44 teclas mini Polifonía de 8 voces 100 sonidos"
+    },
+    {
+        "name": "MK-200",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 89,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/295644.jpg",
+        "description": "61 teclas con respuesta al tacto 32 voces de polifonía 320 voces"
+    },
+    {
+        "name": "SHS-500 Black Sonogenic",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 229,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "37 miniteclas sensibles al tacto 30 sonidos Polifonía de 48 notas"
+    },
+    {
+        "name": "PSR-SX700",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 1090,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/343081.jpg",
+        "description": "61 teclas con sensibilidad dinámica Nuevo teclado FSB 986 voces + 41 kits Drum/SFX + 480 voces XG"
+    },
+    {
+        "name": "CTK-2500",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 119,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/startone.jpg",
+        "description": "61 teclas Polifonía de 48 voces 400 sonidos"
+    },
+    {
+        "name": "CT-X3000",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 285,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/416906.jpg",
+        "description": "61 teclas con sensibilidad dinámica Polifonía de 64 voces Generador de sonido AiX"
+    },
+    {
+        "name": "SHS-500 Red Sonogenic",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 259,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/roland.jpg",
+        "description": "37 miniteclas sensibles al tacto 30 sonidos Polifonía de 48 notas"
+    },
+    {
+        "name": "SA 47",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 38,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/421699.jpg",
+        "description": "32 teclas mini Polifonía de 8 voces 100 sonidos"
+    },
+    {
+        "name": "CTK-240",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 72,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "49 teclas 12 notas de polifonía 100 sonidos"
+    },
+    {
+        "name": "PSS-A50",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 88,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/251661.jpg",
+        "description": "37 teclas sensibles en formato mini Polifonía de 32 voces 42 voces (instrumentos)"
+    },
+    {
+        "name": "CT-S100",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 98,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "61 teclas Polifonía de 32 voces 122 sonidos"
+    },
+    {
+        "name": "PSR-E360 Dark Walnut",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 144,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411799.jpg",
+        "description": "61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal 130 estilos"
+    },
+    {
+        "name": "CTK-240 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 103,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado 49 teclas 12 notas de polifonía"
+    },
+    {
+        "name": "MKR 61",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/273437.jpg",
+        "description": "61 teclas 128 sonidos 128 ritmos"
+    },
+    {
+        "name": "PSR-SX700 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 1109,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado digital 61 teclas con sensibilidad dinámica Nuevo teclado FSB"
+    },
+    {
+        "name": "PSR-SX700 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 1159,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/299344.jpg",
+        "description": "Teclado digital 61 teclas con sensibilidad dinámica Nuevo teclado FSB"
+    },
+    {
+        "name": "PSR-E363 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 189,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado 61 teclas sensibles al tacto 574 sonidos (18 kits de batería/SFX / 20 arpegios / 339 XGlite)"
+    },
+    {
+        "name": "MK-300 Set",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 129,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/448196.jpg",
+        "description": "Teclado 61 teclas con respuesta al tacto 64 notas de polifonía"
+    },
+    {
+        "name": "CT-S200 RD Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/korg.jpg",
+        "description": "Teclado digital 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "CT-S200 WE",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 135,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/277204.jpg",
+        "description": "61 teclas Polifonía de 48 voces 400 sonidos"
+    },
+    {
+        "name": "PSR-E363 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 244,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/roland.jpg",
+        "description": "Teclado 61 teclas sensibles al tacto 574 sonidos (18 kits de batería/SFX / 20 arpegios / 339 XGlite)"
+    },
+    {
+        "name": "CT-S200 BK",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 135,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/251674.jpg",
+        "description": "61 teclas Polifonía de 48 voces 400 sonidos"
+    },
+    {
+        "name": "MK-200 Set",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 105,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado 61 teclas con respuesta al tacto 32 voces de polifonía"
+    },
+    {
+        "name": "CTK-1500 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 109,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411428.jpg",
+        "description": "Teclado doméstico Teclado con 61 teclas Polifonía de 32 voces"
+    },
+    {
+        "name": "LK-S250",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 239,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Con práctica asa de transporte 61 teclas iluminadas en óptica de piano con sensibilidad dinámica Polifonía de 48 voces"
+    },
+    {
+        "name": "PSS-F30",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 64,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/285916.jpg",
+        "description": "37 teclas en formato mini Polifonía de 32 voces 120 voces (instrumentos)"
+    },
+    {
+        "name": "SHS-500 Red Sonogenic Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 320,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado 37 miniteclas sensibles al tacto 30 sonidos"
+    },
+    {
+        "name": "YPT-260 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 139,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/285901.jpg",
+        "description": "Teclado arreglista 61 teclas estándar 384 sonidos + 16 Kits Drum/SFX"
+    },
+    {
+        "name": "DGX-660 B Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 849,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado 88 teclas con teclado GHS Motor de sonido Pure CF Sound Engine"
+    },
+    {
+        "name": "PSR-EW300 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434203.jpg",
+        "description": "Teclado doméstico 76 teclas sensibles 574 sonidos"
+    },
+    {
+        "name": "CT-S300 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 196,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado digital 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "CT-S200 WH Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/280112.jpg",
+        "description": "Teclado digital 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "PSR-E263 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado 61 teclas 384 sonidos + 16 kits de baterías/SFX"
+    },
+    {
+        "name": "PSR-E360 Maple",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 144,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/251675.jpg",
+        "description": "61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal 130 estilos"
+    },
+    {
+        "name": "PSR-E463 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 349,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado digital Sucesor del PSR-E453 61 teclas de tamaño estándar con sensibilidad dinámica"
+    },
+    {
+        "name": "CT-S200 BK Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/375513.jpg",
+        "description": "Teclado digital 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "LK-136",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 127,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/startone.jpg",
+        "description": "61 teclas iluminadas 32 notas de polifonía 120 sonidos"
+    },
+    {
+        "name": "PSR-S670 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 639,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457957.jpg",
+        "description": "Teclado 61 teclas sensibles al tacto Polifonía de 128 notas"
+    },
+    {
+        "name": "DGX-660 WH Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 849,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado 88 teclas con teclado GHS Motor de sonido Pure CF Sound Engine"
+    },
+    {
+        "name": "PSS-E30",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 60,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/471234.jpg",
+        "description": "37 teclas en formato mini Polifonía de 32 voces 49 voces (46 voces + 1 Drum Kit + 2 Kits SFX (74 efectos de sonido como coches, sonidos de animales y otros efectos de sonido)"
+    },
+    {
+        "name": "PSR-EW410 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 435,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado doméstico Sucesor del PSR-EW400 76 con sensibilidad dinámica"
+    },
+    {
+        "name": "CT-X700 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 216,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411795.jpg",
+        "description": "Teclado 61 teclas sensibles al tacto Polifonía de 48 notas"
+    },
+    {
+        "name": "PSR-EW410 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 379,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado doméstico Sucesor del PSR-EW400 76 con sensibilidad dinámica"
+    },
+    {
+        "name": "PSR-E360 Dark Walnut Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434202.jpg",
+        "description": "Teclado digital 61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal"
+    },
+    {
+        "name": "SHS-300 BU Sonogenic",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 209,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "37 miniteclas 12 sonidos 32 notas de polifonía"
+    },
+    {
+        "name": "CTK-2500 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 137,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457960.jpg",
+        "description": "Teclado doméstico 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "LK-S250 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 255,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado digital Con práctica asa de transporte 61 teclas iluminadas en óptica de piano con sensibilidad dinámica"
+    },
+    {
+        "name": "Keyboard Set",
+        "brand": "Hamaril",
+        "category": "keyboard",
+        "price": 145,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/251673.jpg",
+        "description": "Teclado 61 teclas con respuesta al tacto 64 notas de polifonía"
+    },
+    {
+        "name": "LK-136 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 146,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado 61 teclas iluminadas 32 notas de polifonía"
+    },
+    {
+        "name": "CT-X5000 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 373,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/250370.jpg",
+        "description": "Teclado de iniciación 61 teclas con sensibilidad dinámica Polifonía de 64 voces"
+    },
+    {
+        "name": "SHS-300 WH Sonogenic",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 209,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "37 miniteclas 12 sonidos 32 notas de polifonía"
+    },
+    {
+        "name": "PSR-SX900 Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 2169,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/472606.jpg",
+        "description": "Teclado digital 61 teclas con sensibilidad dinámica Nuevo teclado FSB"
+    },
+    {
+        "name": "CTK-2500 Deluxe Bundle",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 182,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado doméstico 61 teclas Polifonía de 48 voces"
+    },
+    {
+        "name": "PSR-E360 DW Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 211,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/470731.jpg",
+        "description": "Teclado digital 61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal"
+    },
+    {
+        "name": "CT-X5000 Deluxe Bundle",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 429,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado de iniciación 61 teclas con sensibilidad dinámica Polifonía de 64 voces"
+    },
+    {
+        "name": "PSR-EW300 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 269,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457972.jpg",
+        "description": "Teclado doméstico 76 teclas sensibles 574 sonidos"
+    },
+    {
+        "name": "PSR-E360 Maple Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 155,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado digital 61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal"
+    },
+    {
+        "name": "CT-S300",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 185,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/252673.jpg",
+        "description": "61 teclas Polifonía de 48 voces 400 sonidos"
+    },
+    {
+        "name": "PSR-S670 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 585,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/casio.jpg",
+        "description": "Teclado 61 teclas sensibles al tacto Polifonía de 128 notas"
+    },
+    {
+        "name": "PSR-E360 Maple Deluxe Bundle",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 211,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/353537.jpg",
+        "description": "Teclado digital 61 teclas de tamaño estándar con sensibilidad dinámica 400 sonidos incluyendo 16 kits drum/SFX/ 384 voces Panal"
+    },
+    {
+        "name": "PSR-SX900 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 2139,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/startone.jpg",
+        "description": "Teclado digital 61 teclas con sensibilidad dinámica Nuevo teclado FSB"
+    },
+    {
+        "name": "PSR-A3000 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 1529,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/471260.jpg",
+        "description": "Teclado arreglista 61 teclas con sensibilidad dinámica Polifonía de 128 voces"
+    },
+    {
+        "name": "MK-200 School Bundle",
+        "brand": "Startone",
+        "category": "keyboard",
+        "price": 549,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado 61 teclas con respuesta al tacto 32 voces de polifonía"
+    },
+    {
+        "name": "BK-5 Set",
+        "brand": "Roland",
+        "category": "keyboard",
+        "price": 765,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/471258.jpg",
+        "description": "Teclado arreglista 61 teclas sensibles 1.172 sonidos"
+    },
+    {
+        "name": "PSR-A350 Set",
+        "brand": "Yamaha",
+        "category": "keyboard",
+        "price": 339,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado oriental 61 teclas sensibles al tacto 613 sonidos (incluye 45 Voces Orientales y Kits de Batería Orientales)"
+    },
+    {
+        "name": "CT-S100 Set",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 113,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/411674.jpg",
+        "description": "Teclado digital 61 teclas Polifonía de 32 voces"
+    },
+    {
+        "name": "CT-X3000 Deluxe Bundle",
+        "brand": "Casio",
+        "category": "keyboard",
+        "price": 354,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb140x47/pics/herstlogos/yamaha.jpg",
+        "description": "Teclado de iniciación 61 teclas con sensibilidad dinámica Polifonía de 64 voces"
+    },
+    {
+        "name": "Yin Yang Standard 5 ltd Olive",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 6599,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/445217.jpg",
+        "description": "Cuerpo de nogal Tapa de madera de olivo premium con Yin Yang pintado Mástil de 3 piezas de arce, atornillado (bolt-on)"
+    },
+    {
+        "name": "Vintage Mersey 500/1 62 Left",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2190,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Para zurdos Edición 40º Aniversario El bajo de The Beatles"
+    },
+    {
+        "name": "Pino Palladino Signature Bass",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4166,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/156516.jpg",
+        "description": "Custom Artist Serie Cuerpo ligero de aliso seleccionado Mástil de arce"
+    },
+    {
+        "name": "4003 Al Cisneros Sign.ltd.",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 3659,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Edición limitada a 420 piezas en todo el mundo Cuerpo de nogal Mástil de arce a través del cuerpo (neck-thru)"
+    },
+    {
+        "name": "Violin Bass 500/1 Relic 61",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/189886.jpg",
+        "description": "Inspirado en el bajo de McCartney Tapa de pícea Aros y fondo de arce flameado"
+    },
+    {
+        "name": "Violin Bass 500/1 Relic 63",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 3069,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "H500/1-RLC-63-0 Inspirado en el bajo de McCartney Tapa de pícea"
+    },
+    {
+        "name": "Sirius 4 R. Gauck Signature FL",
+        "brand": "Franz Bassguitars",
+        "category": "electric-bass",
+        "price": 3444,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/sorrynopic.png",
+        "description": "Sin trastes Cuerpo de nogal Mástil de fresno de 5 piezas (a través del cuerpo)"
+    },
+    {
+        "name": "Metro Vintage RV4 Walnut LH",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 2399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Para zurdos Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "Metro Vintage MV4 Walnut LH",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 2599,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437322.jpg",
+        "description": "Para zurdos Cuerpo de fresno de pantano Mástil de arce"
+    },
+    {
+        "name": "Yin Yang Standard 4 II",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 5444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "#8800 Cuerpo de nogal Tapa de palo amarillo con Yin Yang pintado"
+    },
+    {
+        "name": "60th Anniversary 500/1 Bass",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 5099,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437305.jpg",
+        "description": "Edición limitada a 60 piezas en todo el mundo Tapa de pícea Cuerpo de arce"
+    },
+    {
+        "name": "Violin Bass 500/1 Relic 63 LH",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2999,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Para zurdos H500/1-RLC-63L-0 Inspirado en el bajo de McCartney"
+    },
+    {
+        "name": "H500/1-61-0 Cavern Bass Left",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2190,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378245.jpg",
+        "description": "Para zurdos El Paul McCartney Cavern Bass 'Original' Tapa de pícea alemana seleccionada"
+    },
+    {
+        "name": "Yin Yang Standard 5 ltd Spalt",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 6599,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/franz_bassguitars.jpg",
+        "description": "Cuerpo de nogal Tapa de arce 'Spalted' premium con Yin Yan pintado Mástil de 3 piezas de arce, atornillado (bolt-on)"
+    },
+    {
+        "name": "Violin Bass 500/1 Relic 61 LH",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437148.jpg",
+        "description": "Para zurdos H500/1-RLC-61L-0 Inspirado en el bajo de McCartney"
+    },
+    {
+        "name": "Richard Bona Imperial 5",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 11999,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Richard Bona Signature Imperial Cuerpo de fresno Tapa de madera de olivo"
+    },
+    {
+        "name": "Bongo 6 HH Stealth Black",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437145.jpg",
+        "description": "Cuerpo: Tilo Mástil: Arce Fijación del mástil: Atornillado (en 5 puntos)"
+    },
+    {
+        "name": "Vintage 500/1 62 Mersey",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2045,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Beatles Bass Cuerpo de arce flameado Mástil de arce de 2 piezas"
+    },
+    {
+        "name": "4003 Walnut",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 2145,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/452435.jpg",
+        "description": "Cuerpo de nogal Mástil atravesado de arce (neck through body) Diapasón de arce (con incrustaciones triangulares)"
+    },
+    {
+        "name": "4003 JG",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 2090,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Cuerpo de arce Mástil de arce atravesado Diapasón de palisandro caribeño (Metopium Brownei) con Triangle Inlays"
+    },
+    {
+        "name": "4003 MG",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 2145,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/380786.jpg",
+        "description": "Cuerpo de arce Mástil de arce atravesado Diapasón de madera Caribbean Rosewood (Metopium Brownei)"
+    },
+    {
+        "name": "Metro Vintage MV5 NAT",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Cuerpo de fresno de pantano Mástil de arce Diapasón de palisandro"
+    },
+    {
+        "name": "Metro Hybrid P/J RV4 TWH",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 2666,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437319.jpg",
+        "description": "Cuerpo de aliso Mástil de arce Diapasón de pau ferro"
+    },
+    {
+        "name": "Bongo 5 HS SBK",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2439,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "Panther 5 Buckeye Maple 35\"",
+        "brand": "Sandberg",
+        "category": "electric-bass",
+        "price": 2366,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/304708.jpg",
+        "description": "Cuerpo de caoba Tapa de raíz de arce y castaño de Indias Mástil de arce"
+    },
+    {
+        "name": "H500/1-61-0 Beatles CavernBass",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2111,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "El original Paul Mccartney Cavern Bass Tapa de pícea selecta alemana Cuerpo de arce flameado"
+    },
+    {
+        "name": "MBass Custom 6 Ash",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 4555,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/445220.jpg",
+        "description": "Cuerpo de nogal Tapa de fresno figurado Mástil pegado a través del cuerpo (glued through) de 3 piezas de arce"
+    },
+    {
+        "name": "Metro Vintage RV5 CAR",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 2599,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Cuerpo de aliso Mástil de arce Diapasón de pau ferro"
+    },
+    {
+        "name": "Sirius 5 Maple Burl",
+        "brand": "Franz Bassguitars",
+        "category": "electric-bass",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437324.jpg",
+        "description": "Cuerpo de nogal Tapa de raíz de arce Mástil de 5 piezas de fresno a través del cuerpo (neck-thru)"
+    },
+    {
+        "name": "Moby Dick Bass PL 5 MOH EQ",
+        "brand": "Claas Guitars",
+        "category": "electric-bass",
+        "price": 2555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Sin clavijero Multiescala 'Production Line'"
+    },
+    {
+        "name": "4003S W",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 1950,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/452440.jpg",
+        "description": "Cuerpo denogal con bordes redondeados Mástil de arce (a través del cuerpo) Diapasón de arce"
+    },
+    {
+        "name": "Vintage 500/1 62 Mersey FL",
+        "brand": "Höfner",
+        "category": "electric-bass",
+        "price": 2290,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Beatles Bass Cuerpo de arce flameado Mástil de 2 piezas de arce"
+    },
+    {
+        "name": "4003 FG",
+        "brand": "Rickenbacker",
+        "category": "electric-bass",
+        "price": 2090,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/247481.jpg",
+        "description": "Cuerpo de arce Mástil de arce atravesado Diapasón de madera Caribbean Rosewood (Metopium Brownei)"
+    },
+    {
+        "name": "Tony Franklin P-Bass FL BK",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 2222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Sin trastes Artist Signature Cuerpo de aliso"
+    },
+    {
+        "name": "Masterbuilt Thumb Bass NT 5",
+        "brand": "Warwick",
+        "category": "electric-bass",
+        "price": 5390,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/145035.jpg",
+        "description": "Cuerpo de bubinga pommelé (Guibourtia demeusei) Acabado: Aceite natural Mástil a través del cuerpo (neck-through) oculto de 4 tiras de wengué"
+    },
+    {
+        "name": "Stingray 4 Classic RW NT",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Cuerpo de fresno Mástil de arce flameado Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "Bongo 4 HH SBK",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2333,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/333622.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "Monarch Select 4",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 7499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Cuerpo de aliso seleccionado de bajo peso Perfil de cuerpo plano personalizado de la serie Select Tapa de arce flameado"
+    },
+    {
+        "name": "Stingray 5 Classic MN BK",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2535,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/150711.jpg",
+        "description": "Cuerpo de fresno Mástil de arce flameado Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "Jonas 6 Buckeye Burl",
+        "brand": "Human Base",
+        "category": "electric-bass",
+        "price": 3499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Cuerpo de nogal (Juglandaceae) Tapa de raíz de castaño de Indias seleccionado Mástil de 5 piezas de arce ojo de perdiz"
+    },
+    {
+        "name": "Jonas 5 Vavona",
+        "brand": "Human Base",
+        "category": "electric-bass",
+        "price": 2999,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/157070.jpg",
+        "description": "Cuerpo de nogal Tapa de vavona Mástil de 5 piezas de arce ojo de perdiz"
+    },
+    {
+        "name": "Moby Dick Bass PL 6 WAL EQ",
+        "brand": "Claas Guitars",
+        "category": "electric-bass",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Sin clavijero Multiescala 'Production Line'"
+    },
+    {
+        "name": "Diva 5 Olivesche",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 4298,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/331679.jpg",
+        "description": "Sin trastes Cuerpo de fresno de pantano Tapa de fresno"
+    },
+    {
+        "name": "Bongo 5 HH Sky Blue RW",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2145,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "Emperor Std 5 Classic MN BK",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 6399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/331685.jpg",
+        "description": "Cuerpo de fresno Mástil de 3 piezas de arce atornillado (bolt-on) Escala larga"
+    },
+    {
+        "name": "Consat Custom 4 Maple RTW",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3333,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Regio Tone Wood Series Sólo se utilizó madera autóctona de la región de Harz Cuerpo de tilo"
+    },
+    {
+        "name": "Consat Custom 5 Maple RTW",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3489,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437858.jpg",
+        "description": "Regio Tone Wood Series Sólo se utilizó madera autóctona de la región de Harz Cuerpo de tilo"
+    },
+    {
+        "name": "Soprano two tone maple",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 1789,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de arce Tapa de arce de dos colores Mástil de arce de 3 piezas atornillado en 6 puntos"
+    },
+    {
+        "name": "California II TM4 MN LPB HCAM",
+        "brand": "Sandberg",
+        "category": "electric-bass",
+        "price": 2444,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/440003.jpg",
+        "description": "Cuerpo de aliso 'thermo' con tratamiento de vibraciones Mástil de arce Diapasón de palisandro"
+    },
+    {
+        "name": "Metro Will Lee RV5 VTN",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sandberg.jpg",
+        "description": "Cuerpo de aliso Mástil de arce Diapasón de pau ferro"
+    },
+    {
+        "name": "Votan Deluxe 5 BB",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/262297.jpg",
+        "description": "Cuerpo de dibetou Tapa de arce flameado Mástil de arce ojo de perdiz de una pieza"
+    },
+    {
+        "name": "Bongo 5 HH Firemist Purple RW",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "California II TM 4 PF HCAR MR",
+        "brand": "Sandberg",
+        "category": "electric-bass",
+        "price": 2266,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/385143.jpg",
+        "description": "Cuerpo de aliso (tratamiento térmico) Mástil de arce Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "57 P Bass Journeyman LTD C2TS",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4066,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/marleaux.jpg",
+        "description": "Edición Limitada Cuerpo de fresno de peso ligero Mástil de palisandro de corte radial (quartersawn) con forma posterior en 'V' de 1957"
+    },
+    {
+        "name": "55 P-Bass Relic Surf Green",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4066,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/356375.jpg",
+        "description": "Cuerpo de fresno Mástil de 1 pieza de arce de corte radial (quartersawn), con forma en 'U' '55 P-Bass Radio de 7,25\""
+    },
+    {
+        "name": "California II TM 4 PF HCAR MB",
+        "brand": "Sandberg",
+        "category": "electric-bass",
+        "price": 2299,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Cuerpo de aliso (tratamiento térmico) Mástil de arce Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "58 P-Bass J-Relic BLK 2018 LTD",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3499,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/375464.jpg",
+        "description": "Cuerpo de aliso seleccionado de peso ligero Mástil de arce (teñido) de corte radial (quartersawn) Perfil del mástil en 'V' suave del 58"
+    },
+    {
+        "name": "Bongo 5 HH Firemist Gold RW",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/franz_bassguitars.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "NYC Deluxe Satin Vint.5 PF 59B",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 4555,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/464026.jpg",
+        "description": "Estilo J Cuerpo de fresno con cámaras Tapa de arce flameado"
+    },
+    {
+        "name": "Bongo 4 HS BK FL",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 1950,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/claas_guitars.jpg",
+        "description": "Sin trastes Cuerpo de tilo Mástil de arce"
+    },
+    {
+        "name": "Bongo 5 HH BFR WCB Ltd.",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 3299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/370313.jpg",
+        "description": "Cuerpo: Fresno Mástil: Arce Fijación del mástil: Atornillado (en 5 puntos)"
+    },
+    {
+        "name": "Metro Line Slapmaster MV4 TBU",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Cuerpo de fresno Mástil de arce Diapasón de arce"
+    },
+    {
+        "name": "VW Classic Monarch LTD aged",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 14555,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/408893.jpg",
+        "description": "Edición limitada a 2 piezas en todo el mundo Réplica exacta del bajo #37 de Victor Wooten Firmada por Victor Wooten"
+    },
+    {
+        "name": "58 P-Bass J-Relic 2TS 2018 ltd",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Cuerpo de aliso seleccionado de peso ligero Mástil de arce (teñido) de corte radial (quartersawn) Perfil del mástil en 'V' suave del 58"
+    },
+    {
+        "name": "64 Jazz Bass Journeyman 3TS HW",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3650,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/103893.jpg",
+        "description": "'Custom Shop' Cuerpo de aliso seleccionado de peso ligero Mástil de arce"
+    },
+    {
+        "name": "58 P-Bass J-Relic OWB 2018 LTD",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ric.jpg",
+        "description": "Cuerpo de aliso seleccionado de peso ligero Mástil de arce (teñido) de corte radial (quartersawn) Perfil del mástil en 'V' suave del 58"
+    },
+    {
+        "name": "Phil Lynott Precision Bass",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 13.666,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/190519.jpg",
+        "description": "Phil Lynott Signature Construida por John Cruz Edición limitada a 60 piezas en todo el mundo"
+    },
+    {
+        "name": "58 P-Bass J-Relic OWB 2018 ltd",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "Cuerpo de aliso seleccionado de peso ligero Mástil de arce (teñido) de corte radial (quartersawn) Perfil del mástil en 'V' suave del 58"
+    },
+    {
+        "name": "NYC Standard 4-21 CB",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 5899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/397447.jpg",
+        "description": "Cuerpo de aliso con cámaras Tapa de arce acolchado Mástil de arce con morado (machaerium schleroxylon)"
+    },
+    {
+        "name": "Stingray 4 BFR Special HH DD",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/warwick.jpg",
+        "description": "Cuerpo de fresno Mástil de arce Montaje del mástil: Atornillado (bolt-on) con 5 tornillos"
+    },
+    {
+        "name": "California II TM 5 RW HCAR MR",
+        "brand": "Sandberg",
+        "category": "electric-bass",
+        "price": 2366,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437813.jpg",
+        "description": "Cuerpo de aliso (tratamiento térmico) Mástil de arce Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "Bongo 4 HS RW BK",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2048,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Montaje del mástil: Atornillado (bolt on) con 5 tornillos"
+    },
+    {
+        "name": "NYC Standard 4-21 TEB",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 5699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437827.jpg",
+        "description": "Cuerpo de fresno de pantano con cámaras Tapa de arce flameado Mástil de arce"
+    },
+    {
+        "name": "Consat Custom 5 Rosewood",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de caoba Tapa de palisandro (dalbergia latifolia) Mástil de arce"
+    },
+    {
+        "name": "Stingray 5 Classic MN VSB",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2799,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/451026.jpg",
+        "description": "Cuerpo de fresno Mástil de arce flameado Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "Post Modern P-Bass AWB Relic",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3799,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Cuerpo de 2 piezas de aliso Mástil de arce teñido de corte radial (quartersawn) con forma posterior en 'U' J-Bass del '60 Radio del diapasón: 9,5\""
+    },
+    {
+        "name": "Bongo 5 HS BK FL",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2145,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437820.jpg",
+        "description": "Sin trastes Cuerpo de tilo Mástil de arce"
+    },
+    {
+        "name": "Sirius 5 Maple Fretless RG",
+        "brand": "Franz Bassguitars",
+        "category": "electric-bass",
+        "price": 3699,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de nogal Tapa de arce flameado bicolor Mástil de 5 piezas de fresno 'thermo', a través del cuerpo (neck-thru)"
+    },
+    {
+        "name": "Stingray 5 neck through RW FP",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2799,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/461255.jpg",
+        "description": "Cuerpo de fresno Mástil de arce Montaje del mástil: A través del cuerpo (neck through)"
+    },
+    {
+        "name": "Imperial Elite 5",
+        "brand": "Fodera",
+        "category": "electric-bass",
+        "price": 12111,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/human_base.jpg",
+        "description": "Cuerpo de nogal con bloque de tono de arce Tapa de raíz de castaño de indias macizo seleccionado Mástil de 3 piezas de arce con tiras de nogal, a través del cuerpo (neck-thru)"
+    },
+    {
+        "name": "59 P-Bass Journeyman Relic LPB",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 3759,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/414963.jpg",
+        "description": "Cuerpo de aliso seleccionado de peso ligero Mástil de arce de corte radial (quartersawn) Perfil del mástil en forma de 'C' ovalada de estilo de mediados de los 60"
+    },
+    {
+        "name": "Gold E-volution 6 BO Buckeye",
+        "brand": "Elrick",
+        "category": "electric-bass",
+        "price": 3698,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/human_base.jpg",
+        "description": "Custom Shop Tallado a mano Cuerpo de fresno de pantano"
+    },
+    {
+        "name": "Daily Base 5 Ziricote",
+        "brand": "Human Base",
+        "category": "electric-bass",
+        "price": 3111,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/464032.jpg",
+        "description": "Cuerpo de nogal Tapa de ziricote Mástil de 5 piezas de arce con centro flameado"
+    },
+    {
+        "name": "Betra Custom 5 NT Olive",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3689,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/claas_guitars.jpg",
+        "description": "Sin clavijero Cuerpo de caoba Tapa de fresno olivato"
+    },
+    {
+        "name": "70 P-Bass Relic Aged MBCL AFS",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 5690,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/sorrynopic.png",
+        "description": "Custom Shop Construcción maestra por Carlos López Cuerpo de aliso seleccionado de peso ligero"
+    },
+    {
+        "name": "Jonas 4 Walnut Fretless",
+        "brand": "Human Base",
+        "category": "electric-bass",
+        "price": 2499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/marleaux.jpg",
+        "description": "Cuerpo de arce Tapa de nogal Mástil atravesado de arce de 3 piezas"
+    },
+    {
+        "name": "1961 J-Bass Heavy Relic LPB",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4444,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437850.jpg",
+        "description": "Modelo Custom Shop Heavy Relic Cuerpo de aliso selecto ligero"
+    },
+    {
+        "name": "Consat Custom 4 Flamed Maple",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3150,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de nogal Tapa de arce flameado Mástil de arce"
+    },
+    {
+        "name": "1960 P-Bass Heavy Relic PRPL",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4333,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/433042.jpg",
+        "description": "\"\""
+    },
+    {
+        "name": "Consat Custom 4 NT Ash",
+        "brand": "Marleaux",
+        "category": "electric-bass",
+        "price": 3555,
+        "image": "https://thumbs.static-thomannfodera.de/thumb/ethumb105x40/pics/herstlogos/fodera.jpg",
+        "description": "Cuerpo de arce Tapa de fresno figurado Mástil de arce"
+    },
+    {
+        "name": "Stingray 5 Classic RW NT",
+        "brand": "Music Man",
+        "category": "electric-bass",
+        "price": 2877,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459078.jpg",
+        "description": "Cuerpo de fresno Mástil de arce flameado Montaje del mástil: Atornillado (bolt on)"
+    },
+    {
+        "name": "Masterbuilt Thumb Bass NT 4",
+        "brand": "Warwick",
+        "category": "electric-bass",
+        "price": 4999,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/marleaux.jpg",
+        "description": "Cuerpo de bubinga pommelé (Guibourtia demeusei) Acabado: Aceite natural Mástil a través del cuerpo (neck-through) oculto de 3 tiras de wengué"
+    },
+    {
+        "name": "NYC Modern Satin R5-24 BBB",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 4185,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459074.jpg",
+        "description": "Cuerpo de aliso de peso ligero Tapa de arce flameado Mástil de arce"
+    },
+    {
+        "name": "Herr Schwarz 4",
+        "brand": "Le Fay",
+        "category": "electric-bass",
+        "price": 3499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/marleaux.jpg",
+        "description": "Custom Shop Tallado a mano Cuerpo de fresno"
+    },
+    {
+        "name": "Masterbuilt Infinity 5 N",
+        "brand": "Warwick",
+        "category": "electric-bass",
+        "price": 6222,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/421243.jpg",
+        "description": "Escala larga de 34\" Cuerpo de ovangkol Tapa de arce flameado AAAA con agujeros en 'F'"
+    },
+    {
+        "name": "NYC 5-24 Burl Maple MN",
+        "brand": "Sadowsky",
+        "category": "electric-bass",
+        "price": 7199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/marleaux.jpg",
+        "description": "Cuerpo de fresno con cámaras Tapa de raíz de arce de grado Master Mástil de arce"
+    },
+    {
+        "name": "BaseX 5 Figured Maple",
+        "brand": "Human Base",
+        "category": "electric-bass",
+        "price": 2499,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/382186.jpg",
+        "description": "Cuerpo de fresno de pantano Tapa de arce figurado Mástil de arce de 3 piezas atornillado (bolt on)"
+    },
+    {
+        "name": "PM P-Bass Artisan 2018 ltd",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sandberg.jpg",
+        "description": "Tapa de madera de arce 'spalted' Cuerpo de aliso de peso ligero seleccionado Mástil de arce (teñido) de corte radial (quartersawn), con forma posterior en 'U' Jazz Bass de los años 60"
+    },
+    {
+        "name": "Gold E-volution 6 BO Spalted",
+        "brand": "Elrick",
+        "category": "electric-bass",
+        "price": 5999,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/402183.jpg",
+        "description": "Custom Shop Tallado a mano Cuerpo de nogal con cámaras"
+    },
+    {
+        "name": "1960 P-Bass Heavy Relic BK",
+        "brand": "Fender",
+        "category": "electric-bass",
+        "price": 4444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sadowsky.jpg",
+        "description": "Custom Shop Cuerpo de 2 piezas de aliso seleccionado Mástil de arce teñido de corte radial ('quartersawn'), con forma posterior en 'C' ovalada de los años 60"
+    },
+    {
+        "name": "Les Paul Custom AW",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 4280,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/177619.jpg",
+        "description": "Les Paul Custom Cuerpo de caoba (Swietenia Macrophylla) Tapa de arce"
+    },
+    {
+        "name": "Clapton Custom Shop BLK",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3759,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Eric Clapton Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "G6136T-59VS White Falcon",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3769,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/167025.jpg",
+        "description": "'Vintage Select' Con un cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "John Mayer Silver Sky Frost",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 2222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "John Mayer Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "G6122T-62VS Chet AtkinsCGWS",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3111,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378249.jpg",
+        "description": "Con doble cutaway Cuerpo hueco de 3 capas de arce laminado Curva inferior del cuerpo: 43,20cm (17\")"
+    },
+    {
+        "name": "G6196T-59VS Country Club",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 2999,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "'Vintage Select Edition' Con un cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "G7593T Billy Duffy Falcon",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434265.jpg",
+        "description": "Professional Collection Falcon Body Shape Cuerpo de arce"
+    },
+    {
+        "name": "Iron Cross SW",
+        "brand": "ESP",
+        "category": "electric-guitar",
+        "price": 5222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/prs.jpg",
+        "description": "Modelo James Hetfield (Metallica) Signature Construcción Set Neck Cuerpo de caoba (Khaya Ivorensis)"
+    },
+    {
+        "name": "Michael Landau 68 RelicStratBK",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378005.jpg",
+        "description": "Artist Serie Cuerpo de aliso ligero selecto Mástil de arce"
+    },
+    {
+        "name": "Clapton Custom Shop MDB",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3955,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Eric Clapton Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "Wolfgang USA Stealth",
+        "brand": "Evh",
+        "category": "electric-guitar",
+        "price": 2955,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378252.jpg",
+        "description": "Cuerpo de tilo Mástil de arce Diapasón de ébano"
+    },
+    {
+        "name": "ES-335 Dot GM",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2389,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Cuerpo de arce Tapa de arce figurado Mástil de caoba (Swietenia Macrophylla)"
+    },
+    {
+        "name": "Les Paul Modern Pelham Blue",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2333,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/304243.jpg",
+        "description": "Aros y fondo (swietenia macrophylla) Tapa de arce Alivio de peso ultramoderno"
+    },
+    {
+        "name": "Guthrie Govan HSH Cooked Ash",
+        "brand": "Charvel",
+        "category": "electric-guitar",
+        "price": 3222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Guthrie Govan Signature Cuerpo de fresno caramelizado Mástil de 2 piezas de arce flameado caramelizado con refuerzo de grafito"
+    },
+    {
+        "name": "Axis Super Sport BB Flame RW",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2599,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/332919.jpg",
+        "description": "Cuerpo de tilo Tapa de arce acolchado Mástil de arce (acabado al aceite)"
+    },
+    {
+        "name": "Petrucci Monarchy Majesty 7 IB",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/esp.jpg",
+        "description": "Modelo John Petrucci Signature Cuerpo de caoba Tapa de arce figurado"
+    },
+    {
+        "name": "ES-335 Dot AFR",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2739,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/318694.jpg",
+        "description": "Memphis Custom Shop Cuerpo de arce Tapa de arce figurado"
+    },
+    {
+        "name": "John Mayer Silver Sky Moc Sand",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "John Mayer Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "RG8570Z-BRE j.custom",
+        "brand": "Ibanez",
+        "category": "electric-guitar",
+        "price": 2988,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/179409.jpg",
+        "description": "Mástil Super Wizard de 5 piezas de arce/nogal Cuerpo de dos piezas de caoba Tapa de arce rizado de grado AAAAA"
+    },
+    {
+        "name": "Les Paul 59 GLF 60th Anniv. LH",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 5899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "Para zurdos 60º Aniversario Custom Shop"
+    },
+    {
+        "name": "Luke III BFR HSS Blueberry FM",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/263241.jpg",
+        "description": "Signature Cuerpo de aliso Mástil de arce 'tostado' atornillado (bolt-on)"
+    },
+    {
+        "name": "G6136T White Falcon",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3269,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/evh.jpg",
+        "description": "'Players Edition' Con un cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "G6120TFM Nashville OS",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 2759,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/441672.jpg",
+        "description": "'Players Edition' Con cutaway Cuerpo hueco de 3 capas de arce laminado flameado"
+    },
+    {
+        "name": "Mateus Asato Class S Ant RW SP",
+        "brand": "Suhr",
+        "category": "electric-guitar",
+        "price": 3699,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Envejecido ligero El sistema de bobina simple silencioso SSCII reduce el zumbido ('hum') 50 y 60 ciclos, sin impacto en el tono y sin pilas que cambiar, sólo reducción de ruido transparente Cuerpo de aliso"
+    },
+    {
+        "name": "Michael Landau 68 RelicStratSB",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/462457.jpg",
+        "description": "Artist Serie Cuerpo de aliso ligero selecto Mástil de arce"
+    },
+    {
+        "name": "LP 57 Black Beauty 3PU VOS",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 6899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "'Historic Collection' Custom Shop Cuerpo de una pieza de caoba (Swietenia macrophylla)"
+    },
+    {
+        "name": "G6636T PE Falcon DC White",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 2739,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/405978.jpg",
+        "description": "Players Edition Professional Collection Bloque central con doble cutaway"
+    },
+    {
+        "name": "G6120T-SW Steve Wariner",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/charvel.jpg",
+        "description": "Con cutaway Cuerpo hueco de 3 capas de arce flameado laminado Curva inferior del cuerpo: 40,64 cm (16\")"
+    },
+    {
+        "name": "Wolfgang USA EVH Signature BK",
+        "brand": "Evh",
+        "category": "electric-guitar",
+        "price": 3549,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434520.jpg",
+        "description": "Cuerpo de tilo Tapa de arce flameado Binding de 5 capas"
+    },
+    {
+        "name": "Luke III BFR HSS BoysenberryFM",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3299,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Signature Cuerpo de aliso Mástil de arce 'tostado' atornillado (bolt-on)"
+    },
+    {
+        "name": "RG8520 SDE Sodalite J.Custom",
+        "brand": "Ibanez",
+        "category": "electric-guitar",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/415933.jpg",
+        "description": "Cuerpo de caoba (40 mm) Tapa de arce flameado AAA (4 mm) Mástil de 5 piezas de wengué / arce"
+    },
+    {
+        "name": "JS2410-MCO Joe Satriani",
+        "brand": "Ibanez",
+        "category": "electric-guitar",
+        "price": 2399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Joe Satriani Signature Cuerpo de aliso Mástil JS de 3 piezas de arce/bubinga (guibourtia demeusei)"
+    },
+    {
+        "name": "Valentine Trans Buttermilk",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2439,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/441671.jpg",
+        "description": "Cuerpo de fresno de pantano Mástil y diapasón de arce 'tostado' 22 trastes"
+    },
+    {
+        "name": "Les Paul 54 Goldtop VOS",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 3885,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Custom Shop Les Paul 1954 Tapa curvada de arce"
+    },
+    {
+        "name": "JP15 Flame Teal John Petrucci",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457959.jpg",
+        "description": "Modelo John Petrucci Signature Cuerpo de caoba (Aucoumea Klaineana) Tapa de arce flameado"
+    },
+    {
+        "name": "Petrucci Monarchy Majesty 7 RR",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/prs.jpg",
+        "description": "Modelo John Petrucci Signature Cuerpo de caoba Tapa de arce figurado"
+    },
+    {
+        "name": "Explorer Custom EB GH",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 3980,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/429778.jpg",
+        "description": "Cuerpo de caoba Mástil de caoba Diapasón de Richlite"
+    },
+    {
+        "name": "LP 57 Black Beauty Gloss",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 6899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ibanez.jpg",
+        "description": "'Historic Collection' Custom Shop Cuerpo de una pieza de caoba"
+    },
+    {
+        "name": "G6136T-55VS White Falcon",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3799,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/461235.jpg",
+        "description": "'Vintage Select' Con un cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "Les Paul 59 FB 60th Anniv.",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 5899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "60º Aniversario Custom Shop Les Paul 1959"
+    },
+    {
+        "name": "Le Grand NA",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 12888,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/436764.jpg",
+        "description": "Cuerpo de 17\" Tapa de pícea de alto grado Patrón con refuerzos en 'X'"
+    },
+    {
+        "name": "Rhoads RR24 BW Pinstripe USA",
+        "brand": "Jackson",
+        "category": "electric-guitar",
+        "price": 3444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Custom Shop Cuerpo de aliso Mástil de arce a través del cuerpo (neck through)"
+    },
+    {
+        "name": "Clapton Strat Custom Shop",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3859,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378230.jpg",
+        "description": "Team build CUSTOM SHOP Eric Clapton Signature Cuerpo de aliso"
+    },
+    {
+        "name": "L-5 CES EB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 8799,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Custom Shop Cuerpo de 17\" Tapa de pícea de alto grado"
+    },
+    {
+        "name": "Byrdland Florentine Cut NT",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 7899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/377945.jpg",
+        "description": "Tapa de pícea de alto grado Aros y fondo de arce de alto grado Mástil de arce/nogal de alto grado"
+    },
+    {
+        "name": "Luke III BFR HSS Blueberry QM",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3599,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Signature Cuerpo de aliso Mástil de arce 'tostado' atornillado (bolt-on)"
+    },
+    {
+        "name": "G6122T-59VS Chet Atkins CG WS",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3111,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/433802.jpg",
+        "description": "'Chet Atkins Country Gentleman' Serie Vintage Select Cuerpo hueco de 5 capas de arce laminado flameado"
+    },
+    {
+        "name": "Cutlass HSS Trem RW DC",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2535,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/suhr.jpg",
+        "description": "Cuerpo de aliso Mástil de arce flameado tostado Diapasón de palisandro (dalbergia latifolia)"
+    },
+    {
+        "name": "63 Tele Super Hvy Relic 3TSBS",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 4059,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/318693.jpg",
+        "description": "Custom Shop Edición limitada NAMM 2019 Cuerpo de aliso seleccionado de peso ligero"
+    },
+    {
+        "name": "John Petrucci JPXI 6",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "John Petrucci Signature Cuerpo de aliso con bloque de tono caoba Tapa de arce"
+    },
+    {
+        "name": "Wes Montgomery WR",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 6899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/455503.jpg",
+        "description": "Modelo 'Signature' Custom Shop Cuerpo de 17\""
+    },
+    {
+        "name": "L-5 CES NA",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 10890,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Custom Shop Cuerpo de 17\" Tapa de pícea de alto grado"
+    },
+    {
+        "name": "Wolfgang USA Ivory",
+        "brand": "Evh",
+        "category": "electric-guitar",
+        "price": 3150,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/406397.jpg",
+        "description": "Cuerpo de tilo Tapa de arce flameado Mástil de arce"
+    },
+    {
+        "name": "Wes Montgomery EB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 6899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Modelo 'Signature' Custom Shop Cuerpo de 17\""
+    },
+    {
+        "name": "Wes Montgomery NA",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 10090,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457873.jpg",
+        "description": "Modelo 'Signature' Custom Shop Cuerpo de 17\""
+    },
+    {
+        "name": "Vintage T-AMBS90HT",
+        "brand": "Friedman",
+        "category": "electric-guitar",
+        "price": 2499,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Estilo T Cuerpo de aliso Mástil de arce atornillado (bolt on)"
+    },
+    {
+        "name": "Warren DeMartini Black USA",
+        "brand": "Charvel",
+        "category": "electric-guitar",
+        "price": 3499,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/405784.jpg",
+        "description": "Custom Shop Cuerpo de aliso Mástil de una pieza de arce de corte radial (quartersawn)"
+    },
+    {
+        "name": "CALI-ARVHH+",
+        "brand": "Friedman",
+        "category": "electric-guitar",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/evh.jpg",
+        "description": "Diseñada por Dave Friedman y Grover Jackson Se utilizaron sólo las maderas duras envejecidas más finas Acabado nitro"
+    },
+    {
+        "name": "Custom 22 Piezo FW",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 4399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/436768.jpg",
+        "description": "Cuerpo de caoba (khaya ivorensis) Tapa de arce flameado Mástil de caoba (swietenia macrophylla)"
+    },
+    {
+        "name": "Les Paul Custom AW LH",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 4280,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Para zurdos 1 pastilla humbucker 490R (mástil) 1 pastilla humbucker 498T (puente)"
+    },
+    {
+        "name": "John Petrucci Majesty 6 CF",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3599,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/455645.jpg",
+        "description": "John Petrucci signature Cuerpo de tilo Tapa de arce"
+    },
+    {
+        "name": "SG Custom EB GH 2017",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2990,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ibanez.jpg",
+        "description": "Edición limitada Cuerpo de caoba Mástil de caoba"
+    },
+    {
+        "name": "Silhouette Special HSS SB MN",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2090,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/315697.jpg",
+        "description": "Cuerpo de aliso Mástil de arce Diapasón de arce"
+    },
+    {
+        "name": "Moby Dick PL HDL MOH",
+        "brand": "Claas Guitars",
+        "category": "electric-guitar",
+        "price": 2190,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ibanez.jpg",
+        "description": "Multiescala Sin clavijero Production Line"
+    },
+    {
+        "name": "CALI-AMSGHH+",
+        "brand": "Friedman",
+        "category": "electric-guitar",
+        "price": 3111,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437056.jpg",
+        "description": "Diseñada por Dave Friedman y Grover Jackson Se utilizaron sólo las maderas duras envejecidas más finas Acabado nitro"
+    },
+    {
+        "name": "CALI-AMCHH+",
+        "brand": "Friedman",
+        "category": "electric-guitar",
+        "price": 3111,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Diseñada por Dave Friedman y Grover Jackson Se utilizaron sólo las maderas duras envejecidas más finas Acabado nitro"
+    },
+    {
+        "name": "CALI-AMMHH+",
+        "brand": "Friedman",
+        "category": "electric-guitar",
+        "price": 2899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459286.jpg",
+        "description": "Estilo ST Diseñada por Dave Friedman y Grover Jackson Se utilizaron sólo las maderas duras envejecidas más finas"
+    },
+    {
+        "name": "Wolfgang USA Ivory",
+        "brand": "Evh",
+        "category": "electric-guitar",
+        "price": 3444,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Cuerpo de tilo Tapa de arce flameado Binding de 5 capas"
+    },
+    {
+        "name": "Les Paul Custom EB GH",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 3666,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/436888.jpg",
+        "description": "Les Paul Custom Shop Cuerpo de caoba (Swietenia Macrophylla - procedencia: India/Indonesia) Tapa de arce arqueada"
+    },
+    {
+        "name": "G6131-MY Malcolm Young",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 2799,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Malcom Young (ACDC) Signature Cuerpo de caoba (swietenia macrophylla), con cámaras Tapa de arce"
+    },
+    {
+        "name": "Michael Landau 63 RelicStratFR",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/415934.jpg",
+        "description": "Artist Serie Cuerpo de aliso ligero selecto Mástil de arce"
+    },
+    {
+        "name": "G6120 Eddie Cochran",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 2999,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Modelo Signature Tapa arqueada de arce de tres capas Cuerpo arqueado de arce de tres capas"
+    },
+    {
+        "name": "L-4 CES VSB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 5899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/419076.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de caoba maciza Mástil de caoba"
+    },
+    {
+        "name": "L-4 CES WR",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 5555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Guitarra de Jazz Tapa de pícea maciza Fondo y aros de caoba maciza"
+    },
+    {
+        "name": "ES-Les Paul Standard LB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2489,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437327.jpg",
+        "description": "Memphis Cuerpo hueco de arce Tapa de 3 piezas de arce/álamo/arce laminados flameados"
+    },
+    {
+        "name": "Guthrie Govan HSH Flame Maple",
+        "brand": "Charvel",
+        "category": "electric-guitar",
+        "price": 2955,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Guthrie Govan Signature Cuerpo de tilo caramelizado Tapa de arce flameado"
+    },
+    {
+        "name": "Jeff Beck Custom Shop OW",
+        "brand": "Fender",
+        "category": "electric-guitar",
+        "price": 3658,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378247.jpg",
+        "description": "Stratocaster Custom Shop Artist Serie Modelo Signature"
+    },
+    {
+        "name": "LP Junior 57 Singlecut TVY VOS",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 3190,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Custom Shop Cuerpo de caoba (swietenia macrophylla) maciza Mástil de caoba (swietenia macrophylla) maciza"
+    },
+    {
+        "name": "John Mayer Silver Sky Tungsten",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 2545,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459225.jpg",
+        "description": "John Mayer Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "Sting Ray RS Trem ABC",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2439,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Cuerpo de caoba africana (Khaya Ivorensis) Mástil de arce flameado tostado Diapasón de palisandro (dalbergia latifolia)"
+    },
+    {
+        "name": "Silhouette Special HSS BK RW",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 1850,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/304647.jpg",
+        "description": "Cuerpo de aliso Mástil de arce Diapasón de palisandro (dalbergia latifolia)"
+    },
+    {
+        "name": "RGA8420-BTF j.custom",
+        "brand": "Ibanez",
+        "category": "electric-guitar",
+        "price": 2988,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Mástil Super Wizard de 5 piezas de arce/nogal Cuerpo de 2 piezas de caoba Tapa de arce AAA (acolchado)"
+    },
+    {
+        "name": "LP 57 Black Beauty VOS",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 6899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/334917.jpg",
+        "description": "'Historic Collection' Custom Shop Cuerpo de una pieza de caoba"
+    },
+    {
+        "name": "ES-335 Studio VB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 1890,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/jackson.jpg",
+        "description": "Semihueca Cuerpo y tapa de arce/tilo/arce Mástil de 1 pieza de arce"
+    },
+    {
+        "name": "G6136T Black Falcon",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/300433.jpg",
+        "description": "'Players Edition' Con un cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "John Petrucci Majesty 6 WCB",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 4090,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "Modelo John Petrucci \"Red Sunrise\" Signature Cuerpo de caoba (Aucoumea Klaineana) Tapa de arce"
+    },
+    {
+        "name": "Les Paul 59 RYT 60th Anniv. LH",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 5899,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/109252.jpg",
+        "description": "Para zurdos Custom Shop Les Paul 1959"
+    },
+    {
+        "name": "LP Special DC Figured Top BB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 3485,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Custom Shop Cuerpo de caoba maciza (Swietenia Macrophylla) Mástil de caoba maciza (Swietenia Macrophylla)"
+    },
+    {
+        "name": "G6120T-59 LTD Nashville DCS",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3222,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/211474.jpg",
+        "description": "Edición limitada Con cutaway Cuerpo hueco de arce laminado"
+    },
+    {
+        "name": "LP Axcess Custom Figured BB",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 4980,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gibson.jpg",
+        "description": "Cuerpo de caoba (Swietenia Macrophylla) Tapa de arce figurado Mástil de caoba (Swietenia Macrophylla)"
+    },
+    {
+        "name": "John Mayer Silver Sky Dodgem B",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/436761.jpg",
+        "description": "John Mayer Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "G6120T-55VS Chet Atkins",
+        "brand": "Gretsch",
+        "category": "electric-guitar",
+        "price": 3099,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "'Vintage Select' Con cutaway Cuerpo hueco de 3 capas de arce laminado"
+    },
+    {
+        "name": "John Petrucci Majesty 6 SB",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3555,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378010.jpg",
+        "description": "Modelo John Petrucci Signature Cuerpo de tilo Tapa de arce"
+    },
+    {
+        "name": "Les Paul Modern Graphite",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2280,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Aros y fondo (swietenia macrophylla) Tapa de arce Alivio de peso ultramoderno"
+    },
+    {
+        "name": "John Mayer Silver Sky Orion Gr",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459200.jpg",
+        "description": "John Mayer Signature Cuerpo de aliso Mástil de arce"
+    },
+    {
+        "name": "Mariposa Imperial Black",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3699,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de caoba (Aucoumea Klaineana) Mástil de arce 'tostado' Diapasón de ébano"
+    },
+    {
+        "name": "Steve Morse Y2D Quilt PS",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 2699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/469371.jpg",
+        "description": "Modelo Steve Morse Signature Cuerpo de tilo Tapa de arce"
+    },
+    {
+        "name": "John Petrucci Majesty 6 SO",
+        "brand": "Music Man",
+        "category": "electric-guitar",
+        "price": 3799,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "Modelo John Petrucci \"Kinetic Blue\" Signature Cuerpo de caoba (Aucoumea Klaineana) Tapa de arce"
+    },
+    {
+        "name": "Les Paul Modern Burgundy",
+        "brand": "Gibson",
+        "category": "electric-guitar",
+        "price": 2299,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/287068.jpg",
+        "description": "Aros y fondo (swietenia macrophylla) Tapa de arce Alivio de peso ultramoderno"
+    },
+    {
+        "name": "Custom 24 10 Top BW",
+        "brand": "PRS",
+        "category": "electric-guitar",
+        "price": 4299,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/music_man.jpg",
+        "description": "Cuerpo de caoba (khaya ivorensis) Tapa de arce flameado 10 Top Mástil de caoba (swietenia macrophylla)"
+    },
+
+    {
+        "name": "PDP CM5 Standard Red / Black",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1199,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/283863.jpg",
+        "description": "Versión 'Standard' Color: Fundido de negro a rojo con 'chispas brillantes' (Red Black Sparkle Fade) Acabado: Lacado Premium"
+    },
+    {
+        "name": "Decade Maple Standard S. Brown",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/dw.jpg",
+        "description": "Set 'Standard' DMP925S/C-260 Cascos lacados mate"
+    },
+    {
+        "name": "Rhythm Mate Standard White",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381361.jpg",
+        "description": "Set 'Standard' RM52KH6-WH Color: Blanco"
+    },
+    {
+        "name": "Youngster drums Set Silver",
+        "brand": "Millenium",
+        "category": "drums",
+        "price": 9,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Material del casco: Madera endurecida Herrajes del casco negros Color: Plata con 'chispas brillantes' (Silver Sparkle) (acabado recubierto 'wrapped')"
+    },
+    {
+        "name": "EXX725BR/C Export H.V. Blue",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/338234.jpg",
+        "description": "EXX725BR/C717 Versión Standard Cascos laminados"
+    },
+    {
+        "name": "Decade Maple Standard RD Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/tama.jpg",
+        "description": "Set 'Standard' DMP925S/C-261 Cascos lacados de alto brillo"
+    },
+    {
+        "name": "Stage Custom Studio Set HA",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/467182.jpg",
+        "description": "Set 'Studio' SBP0F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "Stage Custom Standard Set RBL",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/millenium.jpg",
+        "description": "Set 'Standard' SBP2F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "Decade Maple Stand. BK Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/410303.jpg",
+        "description": "Set 'Standard' DMP925S/C-262 Cascos lacados mate"
+    },
+    {
+        "name": "Decade Maple Studio BK Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Studio' DMP905/C-262 Cascos lacados mate"
+    },
+    {
+        "name": "PDP CM6 Fusion White",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1398,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381376.jpg",
+        "description": "Versión 'Fusion' Color: Blanco Perlado (Pearlescent White) Acabado: Lacado Premium"
+    },
+    {
+        "name": "Stage Custom Standard Set -HA",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Standard' SBP2F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "Rydeen Standard Mellow Yellow",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/365991.jpg",
+        "description": "Modelo: RDP2F5CY-MY Acabado: Amarillo (Mellow Yellow, YL) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "Rhythm Mate Studio - GXS",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Set 'Studio' RM50YH6-GXS Color: Plateado (Galaxy Silver)"
+    },
+    {
+        "name": "Superstar Hyper Maple Rock FBK",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 1444,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/365985.jpg",
+        "description": "Superstar Hyperdrive Maple Series ML52HLZBN-FBK Versión lacada"
+    },
+    {
+        "name": "MX420 Studio Set BL",
+        "brand": "Millenium",
+        "category": "drums",
+        "price": 35,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Versión 'Standard' Acabado: 'Blue Lining' Cascos de 9 capas de álamo/abedul recubiertos"
+    },
+    {
+        "name": "Pocket Kit - Black Sparkle",
+        "brand": "Ludwig",
+        "category": "drums",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381375.jpg",
+        "description": "Fabricada en colaboración con Amir \"Questlove\" Thomson Color: Negro con 'chispas' brillantes (Black Sparkle) Diseñada para niños de 4-10 años"
+    },
+    {
+        "name": "Roadshow Compact Bronze Metal.",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Serie Roadshow RS585C-707 Cascos recubiertos"
+    },
+    {
+        "name": "PDP CM6 Fusion Black",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1389,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381678.jpg",
+        "description": "Versión 'Fusion' Color: Negro perlado (Pearlescent Black Fade) Acabado: Lacado Premium"
+    },
+    {
+        "name": "Decade Maple Studio S. Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Studio' DMP905/C-227 Cascos lacados mate"
+    },
+    {
+        "name": "Rydeen Standard Black Glitter",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/283825.jpg",
+        "description": "Modelo: RDP2F5CY-BLG Acabado: Negro (Black Glitter, BLG) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "Storm Rock Set Bundle #IC",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/dw.jpg",
+        "description": "Versión 'Rock' Color: Veta de madera (Wood Grain) Herrajes de los cascos de cromo"
+    },
+    {
+        "name": "Decade Maple 6pc Satin Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 1177,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/365981.jpg",
+        "description": "DMP926S/C-227 Cascos lacados de alto brillo Color: Negro satén brillante (Gloss Satin Slate Black, #227)"
+    },
+    {
+        "name": "Roadshow Jr. Grindstone Spark.",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 28,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "RSJ465C/C708 Cascos recubiertos Color: Grindstone Sparkle (#708)"
+    },
+    {
+        "name": "EXX725BR/C Export Bl. Cherry",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 72,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409376.jpg",
+        "description": "EXX725BR/C704 Versión Standard Cascos laminados"
+    },
+    {
+        "name": "Export Limited Set White Limba",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 98,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Versión 'Standard' EXA726XSC/C771 Cascos recubiertos (wrapped) con acabado 'White Limba'"
+    },
+    {
+        "name": "Stage Custom Standard Set -CR",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/357013.jpg",
+        "description": "Set 'Standard' SBP2F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "Decade Maple 6pc Satin Brown",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 1177,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/tama.jpg",
+        "description": "DMP926S/C-260 Cascos lacados mate Color: Sunburst Marrón satinado (Satin Brown Burst, -260)"
+    },
+    {
+        "name": "Energy Studio Black II",
+        "brand": "Gretsch",
+        "category": "drums",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/407847.jpg",
+        "description": "Configuración 'Studio' Color: Negro (Black, BK) Cascos recubiertos ('wrapped')"
+    },
+    {
+        "name": "Stage Custom Studio Set CR",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/tama.jpg",
+        "description": "Set 'Studio' SBP0F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "EXX725SBR/C Export Bl. Cherry",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 72,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/452094.jpg",
+        "description": "EXX725SBR/C704 Versión Fusion 2 Cascos laminados"
+    },
+    {
+        "name": "AQ1 Studio Set Piano White",
+        "brand": "Sonor",
+        "category": "drums",
+        "price": 1098,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/millenium.jpg",
+        "description": "Versión 'Studio' Cascos 100% de abedul Herrajes de los cascos de cromo"
+    },
+    {
+        "name": "Roadshow Compact Red Wine",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 48,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/400890.jpg",
+        "description": "Serie Roadshow RS585C-91 Cascos recubiertos"
+    },
+    {
+        "name": "EXX725SBR/C Export H.V. Blue",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ludwig.jpg",
+        "description": "EXX725SBR/C717 Versión Fusion 2 Cascos laminados"
+    },
+    {
+        "name": "Storm Studio Set Wood Grain",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 63,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381352.jpg",
+        "description": "Versión 'Studio' Color: Veta de madera de alcanfor (Camphor Wood Grain #IC) Herrajes de los cascos de cromo"
+    },
+    {
+        "name": "Decade Maple Fusion BK Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Fusion' DMP925F/C-262 Cascos lacados mate"
+    },
+    {
+        "name": "Energy Studio Grey Steel",
+        "brand": "Gretsch",
+        "category": "drums",
+        "price": 66,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/283822.jpg",
+        "description": "Configuración 'Studio' Color: Gris acero (Grey Steel, GS) Cascos recubiertos ('wrapped')"
+    },
+    {
+        "name": "Tornado Junior Zildjian Set DR",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/dw.jpg",
+        "description": "TND5845TZ Serie Tornado Versión 'Junior'"
+    },
+    {
+        "name": "Storm Rock Set Deep Black",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 62,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381553.jpg",
+        "description": "Versión 'Rock' Color: Negro (Deep Black) Herrajes de los cascos en negro"
+    },
+    {
+        "name": "Decade Maple 6pc Black Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 1177,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "DMP926S/C-262 Cascos lacados mate Color: Sunburst Negro satinado (Satin Black Burst, -262)"
+    },
+    {
+        "name": "Rydeen Studio Black Glitter",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409370.jpg",
+        "description": "Modelo: RDP0F5CY-BLG Acabado: Negro (Black Glitter, BLG) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "PDP CM5 Standard Black",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1198,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Versión 'Standard' Color: Negro perlado (Pearlescent Black) Acabado: Lacado Premium"
+    },
+    {
+        "name": "Junior Kit Manu Katché Black",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/424437.jpg",
+        "description": "Cascos de 6 capas de abedul lacado de alto brillo Acabado: Negro cuervo (Raven Black, RB) Herrajes de cromo"
+    },
+    {
+        "name": "Rydeen Standard Burgundy Gl.",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/mapex.jpg",
+        "description": "Modelo: RDP2F5CY-BGG Acabado: Borgoña (Burgundy Glitter, BGG) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "Imperialstar 20\" 5pcs -HBK",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 74,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/431539.jpg",
+        "description": "Serie Imperialstar Modelo IE50H6W-HBK Cascos de madera de álamo de 6 capas con 8 mm de grosor"
+    },
+    {
+        "name": "Tornado Junior Bundle",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 44,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set de batería completo Serie Tornado Versión 'Junior'"
+    },
+    {
+        "name": "Superstar Classic Kit 22 BAB",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 90,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/472257.jpg",
+        "description": "CL52KR-BAB Cascos de arce Color: Blue Lacquer Burst (BAB)"
+    },
+    {
+        "name": "Rydeen Studio Hot Red",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Modelo: RDP0F5CY-RD Acabado: Rojo (Hot Red, RD) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "PDP Mainstage -Bronze- Bundle",
+        "brand": "DW",
+        "category": "drums",
+        "price": 66,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/410301.jpg",
+        "description": "Set de cascos para batería Serie PDP Mainstage Kit de nivel básico que incluye batería, pedales y herrajes"
+    },
+    {
+        "name": "Decade Maple Fusion S. Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 94,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Fusion' DMP925F/C-227 Cascos lacados mate"
+    },
+    {
+        "name": "Rhythm Mate Studio -CCM",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/450114.jpg",
+        "description": "Set 'Studio' RM50YH6-CCM Color: Carbón (Charcoal Mist)"
+    },
+    {
+        "name": "Cocktail Jam Kit -ISP",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "CJB46C-ISP Color: Índigo (Indigo Sparkle, ISP) Cascos recubiertos Unicolor"
+    },
+    {
+        "name": "Cocktail Jam Kit -BOS",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 65,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/365980.jpg",
+        "description": "CJB46C-BOS Color: Naranja brillante (Bright Orange Sparkle, BOS) Cascos recubiertos Unicolor"
+    },
+    {
+        "name": "Imperialstar 20\" 5pcs -BOW",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 75,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Serie Imperialstar Modelo IE50H6W-BOW Cascos de madera de álamo de 6 capas con 8 mm de grosor"
+    },
+    {
+        "name": "Superstar Classic Kit 20 BAB",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 90,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/422523.jpg",
+        "description": "CL50R-BAB Cascos de arce Color: Sunburst azul (Blue Lacquer Burst, BAB)"
+    },
+    {
+        "name": "Superstar Classic Kit 20 TLB",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 90,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "CL50R-TLB Cascos de arce Color: Sunburst mandarina (Tangerine Lacquer Burst, TLB)"
+    },
+    {
+        "name": "Imperialstar 22\" 5pcs -HLB",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 75,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/425902.jpg",
+        "description": "Serie Imperialstar Modelo IE52KH6W-HLB Cascos de madera de álamo de 6 capas con 8 mm de grosor"
+    },
+    {
+        "name": "Imperialstar 18\" 5pcs -BOW",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 75,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "Serie Imperialstar Modelo IE58H6W-BOW Cascos de madera de álamo de 6 capas con 8 mm de grosor"
+    },
+    {
+        "name": "Decade Maple Studio Red Burst",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/365996.jpg",
+        "description": "Set 'Studio' DMP905/C-261 Cascos lacados de alto brillo"
+    },
+    {
+        "name": "Superstar Classic Kit 22 TPB",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 1090,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "CL52KR-TPB Cascos de arce Color: Transparent Black Burst"
+    },
+    {
+        "name": "Decade Maple Studio S. Brown",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/410296.jpg",
+        "description": "Set 'Studio' DMP905/C-260 Cascos lacados mate"
+    },
+    {
+        "name": "Rydeen Standard Hot Red",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 68,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Modelo: RDP2F5CY-HR Acabado: Rojo (Hot Red, RD) Cascos de 6 capas de álamo de 7,2mm"
+    },
+    {
+        "name": "Imperialstar 22\" 5pcs -HBK",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 75,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/431571.jpg",
+        "description": "Serie Imperialstar Modelo IE50H6W-HBK Cascos de madera de álamo de 6 capas con 8 mm de grosor"
+    },
+    {
+        "name": "Stage Custom Standard Set -NW",
+        "brand": "Yamaha",
+        "category": "drums",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/sonor.jpg",
+        "description": "Set 'Standard' SBP2F5 Cascos de 6 capas de madera de abedul lacada de alto brillo"
+    },
+    {
+        "name": "Superstar Hyper Maple Rock ISP",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 1290,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381351.jpg",
+        "description": "Superstar Hyperdrive Maple Series MK52HLZBN-ISP Versión 'Rock'"
+    },
+    {
+        "name": "Superstar Hyper Maple Rock SGW",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 1290,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Superstar Hyperdrive Maple Series MK52HLZBN-SGW Versión 'Rock'"
+    },
+    {
+        "name": "Superstar Hyper Maple Rock DMF",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 1444,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/410297.jpg",
+        "description": "Superstar Hyperdrive Maple Series ML52HLZBN-DMF Versión lacada"
+    },
+    {
+        "name": "EXX725BR/C Export Jet Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Versión Standard EXX725Z/C Cascos laminados"
+    },
+    {
+        "name": "Tornado Studio Zildjian Set BK",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/383374.jpg",
+        "description": "TND5045TZ Serie Tornado Versión 'Studio'"
+    },
+    {
+        "name": "PDP CM5 Standard Silver/Black",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1259,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/mapex.jpg",
+        "description": "Versión 'Standard' Color: Fundido de negro a plateado (Silver to Black Fade) Acabado: Lacado Premium"
+    },
+    {
+        "name": "EXX705NBR/C Export Jet Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381385.jpg",
+        "description": "Versión 'Studio' EXX705NBR/C Cascos recubiertos"
+    },
+    {
+        "name": "EXX725BR/C Export Arctic Spar.",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Versión Standard EXX725BR/C Cascos laminados"
+    },
+    {
+        "name": "Tornado Stand. Zildjian Set DR",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/400707.jpg",
+        "description": "TND5295TZ Serie Tornado Versión 'Standard'"
+    },
+    {
+        "name": "EXX705NBR/C Export Arct. White",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/gretsch.jpg",
+        "description": "EXX705NBR/C Color: Arctic White (#700) Versión Studio"
+    },
+    {
+        "name": "Decade Maple Standard S. White",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/398679.jpg",
+        "description": "Set 'Standard' DMP925S/C-229 Cascos lacados mate"
+    },
+    {
+        "name": "Tornado Junior Kit Royal Blue",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/mapex.jpg",
+        "description": "Serie Tornado Versión 'Junior' Cascos de tilo recubiertos"
+    },
+    {
+        "name": "EXX705NBR/C Export H.V. Blue",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 77,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/424419.jpg",
+        "description": "EXX705NBR/C717 Versión Studio Cascos laminados"
+    },
+    {
+        "name": "Energy Studio Black",
+        "brand": "Gretsch",
+        "category": "drums",
+        "price": 66,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/mapex.jpg",
+        "description": "Configuración 'Studio' Color: Negro (Black, BK) Cascos recubiertos ('wrapped')"
+    },
+    {
+        "name": "Decade Maple Standard S. Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/422524.jpg",
+        "description": "Set 'Standard' DMP925S/C-227 Cascos lacados mate"
+    },
+    {
+        "name": "Tornado Junior Zildjian Set BK",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "TND5845TZ Serie Tornado Versión 'Junior'"
+    },
+    {
+        "name": "PDP CM6 Fusion Red Black Fade",
+        "brand": "DW",
+        "category": "drums",
+        "price": 1398,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409377.jpg",
+        "description": "Versión 'Fusion' Color: Fundido de rojo a negro (Red to Black Fade) Acabado: Lacado Premium"
+    },
+    {
+        "name": "Rhythm Mate Standard -CCM",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Set 'Standard' RM52KH6-CCM Color: Niebla Carbón (Charcoal Mist)"
+    },
+    {
+        "name": "JR22 Journeyman Rambler Kit BK",
+        "brand": "Ddrums",
+        "category": "drums",
+        "price": 44,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/283866.jpg",
+        "description": "Color: Negro Set de batería completo de 5 piezas Cascos de tilo"
+    },
+    {
+        "name": "Rhythm Mate Standard -RDS",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/dw.jpg",
+        "description": "Set 'Standard' RM52KH6-RDS Color: Rojo (Red Stream)"
+    },
+    {
+        "name": "Rhythm Mate Studio White",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/376896.jpg",
+        "description": "Set 'Studio' RM50YH6-WH Color: Blanco"
+    },
+    {
+        "name": "Tornado Stand. Zildjian Set BK",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "TND5295TZ Serie Tornado Versión 'Standard'"
+    },
+    {
+        "name": "Tornado Stand. Zildjian Set YB",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409371.jpg",
+        "description": "TND5295TZ Serie Tornado Versión 'Standard'"
+    },
+    {
+        "name": "Youngster drums Set Green",
+        "brand": "Millenium",
+        "category": "drums",
+        "price": 9,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Material del casco: Madera endurecida Herrajes del casco negros Color: Verde con 'chispas brillantes' (Green Sparkle) (acabado recubierto 'wrapped')"
+    },
+    {
+        "name": "EXX725SBR/C Export Jet Black",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/458911.jpg",
+        "description": "EXX725SBR/C Versión 'Fusion 2' Cascos recubiertos"
+    },
+    {
+        "name": "TND5294FTC Tornado Standard YB",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 35,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/tama.jpg",
+        "description": "Serie 'Tornado' Versión 'Studio' Cascos de tilo recubiertos"
+    },
+    {
+        "name": "PDP Mainstage BK",
+        "brand": "DW",
+        "category": "drums",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/329378.jpg",
+        "description": "Serie PDP Mainstage Kit de nivel básico que incluye batería, pedales y herrajes Construcción en madera recubierta de un acabado duradero"
+    },
+    {
+        "name": "TND5294FTC Tornado Std. Bundle",
+        "brand": "Mapex",
+        "category": "drums",
+        "price": 49,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/mapex.jpg",
+        "description": "Batería Completa Tornado Serie Standard Version"
+    },
+    {
+        "name": "MX422 Standard Set RL",
+        "brand": "Millenium",
+        "category": "drums",
+        "price": 35,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/429949.jpg",
+        "description": "Versión 'Standard' Acabado: 'Red Lining' Cascos de 9 capas de álamo/abedul recubiertos"
+    },
+    {
+        "name": "Roadshow Fusion Red Wine",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 49,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/tama.jpg",
+        "description": "Serie Roadshow RS525SC-91 Cascos recubiertos"
+    },
+    {
+        "name": "EXX705NBR/C Export Bl. Cherry",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409382.jpg",
+        "description": "EXX705NBR/C704 Versión Studio Cascos laminados"
+    },
+    {
+        "name": "Compact Traveler Kit",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 19,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "PCTK-1810 Bombo de 18\" y caja de 10\" Soporte de caja ajustable"
+    },
+    {
+        "name": "EXX725SBR/C Export Chrome",
+        "brand": "Pearl",
+        "category": "drums",
+        "price": 72,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/261651.jpg",
+        "description": "EXX725SBR/C Versión 'Fusion 2' Cascos recubiertos"
+    },
+    {
+        "name": "Rhythm Mate Studio - RDS",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/dw.jpg",
+        "description": "Set 'Studio' RM50YH6-RDS Color: Rojo (Red Stream)"
+    },
+    {
+        "name": "D2 Rock Starter Set Lime Spkl",
+        "brand": "Ddrums",
+        "category": "drums",
+        "price": 29,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/381382.jpg",
+        "description": "Color: Lima (Lime Sparkle) Cascos de tilo recubiertos Aros 'Triple-Flanged' de 1,7mm"
+    },
+    {
+        "name": "Rhythm Mate Standard -GXS",
+        "brand": "Tama",
+        "category": "drums",
+        "price": 58,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/pearl.jpg",
+        "description": "Set 'Standard' RM52KH6-GXS Color: Plateado (Galaxy Silver)"
+    },
+    {
+        "name": "CG122MC",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 244,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/245534.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de nato Mástil de nato"
+    },
+    {
+        "name": "CG142S BL",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 299,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Tapa de pícea de Engelmann maciza Aros y fondo de nato Mástil de nato"
+    },
+    {
+        "name": "CG192S",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 49,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/302552.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palisandro (Dalbergia Latifolia) Mástil de caoba"
+    },
+    {
+        "name": "Thomann Custom BK",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.333,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Con cutaway Tapa de cedro macizo Aros y fondo de caoba (Entandophragma Zylindricum) maciza"
+    },
+    {
+        "name": "HLE-AMF Limited Edition",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 46,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/245543.jpg",
+        "description": "Edición limitada Tapa de pícea maciza AAA Cuerpo de nogal satinado altamente flameado"
+    },
+    {
+        "name": "GNc2-CW Grand Nylon",
+        "brand": "Furch",
+        "category": "concerto-guitar",
+        "price": 1.179,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Con cutaway Tapa de cedro rojo (Thuja plicata) macizo Aros y fondo de nogal (Juglans nigra) macizo"
+    },
+    {
+        "name": "Natural-Torres",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 2.399,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379446.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palisandro (Dalbergia Latifolia) macizo Mástil de cedro"
+    },
+    {
+        "name": "Natural-PC",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.658,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de palisandro macizo Binding de la tapa y el fondo de palisandro"
+    },
+    {
+        "name": "54PF",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.069,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/360057.jpg",
+        "description": "Tapa de pícea maciza Binding de la tapa de caoba Aros y fondo de palisandro (Dalbergia Latifolia) macizo"
+    },
+    {
+        "name": "Pro Andalus 10M Cedar",
+        "brand": "VGS",
+        "category": "concerto-guitar",
+        "price": 222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de caoba Mástil de caoba"
+    },
+    {
+        "name": "CutPro PF + Pickup System",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 2.333,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/434622.jpg",
+        "description": "Con cutaway Tapa de pícea maciza Aros y fondo de palo escrito macizo"
+    },
+    {
+        "name": "2M Spruce",
+        "brand": "Amalio Burguet",
+        "category": "concerto-guitar",
+        "price": 1.399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/furch.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palisandro (dalbergia latifolia) macizo Escala: 650mm"
+    },
+    {
+        "name": "HZ27",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379310.jpg",
+        "description": "Tamaño 4/4 Tapa de cedro macizo Aros y fondo de santos (Macherium)"
+    },
+    {
+        "name": "HA-CS7 Relic",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Modelo con cuerdas de acero Cuerpo de guitarra de concierto envejecido artificialmente Tapa de pícea maciza"
+    },
+    {
+        "name": "114ce-N Nylon",
+        "brand": "Taylor",
+        "category": "concerto-guitar",
+        "price": 99,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379198.jpg",
+        "description": "Grand Auditorium Con cutaway veneciano Tapa de pícea de Sitka maciza"
+    },
+    {
+        "name": "HGL9 Green Line",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Green Line Completamente de maderas nacionales Tapa de pícea maciza"
+    },
+    {
+        "name": "GC3CE-Natural",
+        "brand": "Takamine",
+        "category": "concerto-guitar",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379188.jpg",
+        "description": "Con cutaway Tapa de pícea maciza Aros y fondo de caoba"
+    },
+    {
+        "name": "GC5CE Natural",
+        "brand": "Takamine",
+        "category": "concerto-guitar",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Cutaway veneciano Tapa de pícea maciza Aros y fondo de nogal negro"
+    },
+    {
+        "name": "CN-60S Black IL",
+        "brand": "Fender",
+        "category": "concerto-guitar",
+        "price": 177,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/400943.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de caoba laminada Roseta de pearloid CD"
+    },
+    {
+        "name": "Basis Cut PF + DOT TA",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.599,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/vgs.jpg",
+        "description": "Con cutaway Tapa de pícea maciza Aros y fondo de palisandro indio oriental (Dalbergia Latifolia) macizo"
+    },
+    {
+        "name": "Granito 32-CEN-AB",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 195,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379452.jpg",
+        "description": "Tamaño 4/4 Con cutaway Mástil estrecho"
+    },
+    {
+        "name": "Rubinito LSM",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 166,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tamaño: 4/4 Tapa de pícea Aros y fondo de caoba"
+    },
+    {
+        "name": "56AF-N",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.555,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/153272.jpg",
+        "description": "Tapa de pícea tratada térmicamente Fondo y aros de arce macizo Mástil de cerezo/checker-tree tratados térmicamente"
+    },
+    {
+        "name": "La Burguet Spruce",
+        "brand": "Amalio Burguet",
+        "category": "concerto-guitar",
+        "price": 3799,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/amalio_burguet.jpg",
+        "description": "Tapa de pícea (Picea abies) maciza Aros y fondo de palisandro africano (Dalbergia Baronii) Mástil de cedro"
+    },
+    {
+        "name": "C40 BL Bundle 1",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 149,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/157109.jpg",
+        "description": "Guitarra Clásica Tapa de pícea Aros y fondo de meranti"
+    },
+    {
+        "name": "C4 CE",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de caoba maciza Fondo y aros de caoba Mástil de caoba"
+    },
+    {
+        "name": "HM92 Sarabande",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/457264.jpg",
+        "description": "Tapa de cedro macizo (secada al aire) Aros y fondo de santos (Macherium) macizo Mástil de caoba acabado al aceite"
+    },
+    {
+        "name": "Romance Spruce",
+        "brand": "Juan Hernandez",
+        "category": "concerto-guitar",
+        "price": 2.899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de pícea alemana maciza Aros y fondo de palisandro macizo de Madagascar Fondo de 2 piezas"
+    },
+    {
+        "name": "Zafiro CM",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/409305.jpg",
+        "description": "Escala 4/4 Tapa de cedro canadiense macizo Fondo y aros de Pau Ferro"
+    },
+    {
+        "name": "2DV Cedar",
+        "brand": "Amalio Burguet",
+        "category": "concerto-guitar",
+        "price": 1.555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/taylor.jpg",
+        "description": "Fabricada por Damián Burguet Diseñada por Vanessa Burguet Tapa de cedro macizo"
+    },
+    {
+        "name": "CG102 NT Bundle",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 209,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/316796.jpg",
+        "description": "Guitarra Clásica Tapa de pícea Aros y fondo de nato"
+    },
+    {
+        "name": "HM65-Z-CE",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 1.069,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tamaño: 4/4 Con cutaway Tapa de cedro macizo"
+    },
+    {
+        "name": "Z Nature CW EZ",
+        "brand": "Alhambra",
+        "category": "concerto-guitar",
+        "price": 46,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/449902.jpg",
+        "description": "Modelo con Cutaway Tapa de cedro macizo Fondo y aros de Sapelli"
+    },
+    {
+        "name": "C12 Spruce",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 1.755,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/takamine.jpg",
+        "description": "Escala 4/4 Tapa de cedro canadiense macizo Lattice Bracing"
+    },
+    {
+        "name": "56PF",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.658,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/449905.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palo escrito macizo Binding de la tapa y fondo de palisandro"
+    },
+    {
+        "name": "Rubinito Azul SM",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 209,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/takamine.jpg",
+        "description": "Tamaño: 4/4 Tapa de pícea alemana maciza Aros y fondo de arce"
+    },
+    {
+        "name": "HM88-C-0",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 2.111,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/442672.jpg",
+        "description": "Con cutaway Cuerpo de palisandro (Dalbergia latifolia) macizo Chapa del clavijero de palisandro (Dalbergia Latifolia)"
+    },
+    {
+        "name": "610E-C cutaway NAT",
+        "brand": "Raimundo",
+        "category": "concerto-guitar",
+        "price": 77,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/fender.jpg",
+        "description": "Con cutaway Tapa de cedro canadiense macizo Aros y fondo de caoba"
+    },
+    {
+        "name": "Rubinito Negro CM",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 209,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/189032.jpg",
+        "description": "Tamaño: 4/4 Tapa de cedro canadiense macizo Aros y fondo de arce"
+    },
+    {
+        "name": "R221SN-BK",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 277,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tamaño 4/4 Mástil pequeño Tapa de pícea"
+    },
+    {
+        "name": "105M",
+        "brand": "Raimundo",
+        "category": "concerto-guitar",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/469236.jpg",
+        "description": "Tapa de cedro macizo con Binding de Sycamore Fondo y aros de Red Gum Mástil de caoba"
+    },
+    {
+        "name": "RCE138-T4STR",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/la_mancha.jpg",
+        "description": "Con cutaway Tapa de pícea de Alaska maciza, teñida en rojo de alto pulido Aros y fondo de sapeli, teñidos en rojo de alto pulido"
+    },
+    {
+        "name": "52AF",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.022,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/423298.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de arce macizo Mástil de cedro"
+    },
+    {
+        "name": "CG182C",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 49,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/la_mancha.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de palisandro (Dalbergia latifolia) Mástil de nato"
+    },
+    {
+        "name": "R189GSN-25TH",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 55,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/421397.jpg",
+        "description": "Tamaño: 4/4 Modelo del 25º aniversario Aros y fondo de granadilla"
+    },
+    {
+        "name": "Bossa Nova 3-C/CE NAT",
+        "brand": "Raimundo",
+        "category": "concerto-guitar",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tamaño: 4/4 Con cutaway Tapa de cedro canadiense macizo"
+    },
+    {
+        "name": "SE II NEW",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 49,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/451412.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea maciza selecta de grado AA Fondo y aros de álamo negro"
+    },
+    {
+        "name": "HLE-TF Limited Edition",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 53,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/amalio_burguet.jpg",
+        "description": "Edición limitada Escala 4/4 Tapa de pícea maciza"
+    },
+    {
+        "name": "128-A profesor NAT",
+        "brand": "Raimundo",
+        "category": "concerto-guitar",
+        "price": 46,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/309485.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palisandro (Dalbergia Latifolia) Mástil de caoba"
+    },
+    {
+        "name": "Concierto Spruce",
+        "brand": "Juan Hernandez",
+        "category": "concerto-guitar",
+        "price": 2.222,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Tapa de pícea alemana maciza Aros y fondo de palisandro indio macizo Fondo de 2 piezas"
+    },
+    {
+        "name": "1C Black Satin",
+        "brand": "Alhambra",
+        "category": "concerto-guitar",
+        "price": 45,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/426746.jpg",
+        "description": "Tapa de cedro macizo A Aros y fondo de sapeli Mástil de sapeli"
+    },
+    {
+        "name": "50KF-N",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 95,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/cordoba.jpg",
+        "description": "Tapa de pícea tratada térmicamente Fondo y aros de cerezo macizo tratado térmicamente Mástil de cerezo/checker-tree tratados térmicamente"
+    },
+    {
+        "name": "Pro Arte GC130A",
+        "brand": "VGS",
+        "category": "concerto-guitar",
+        "price": 173,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/263851.jpg",
+        "description": "Tamaño: 4/4 Tapa de 4 piezas de pícea maciza Roseta de la boca con mosaico de madera auténtica"
+    },
+    {
+        "name": "Profesor Spruce",
+        "brand": "Juan Hernandez",
+        "category": "concerto-guitar",
+        "price": 1.099,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de pícea alemana maciza Aros y fondo de palisandro indio macizo Fondo de 2 piezas"
+    },
+    {
+        "name": "58EF-N",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 2.499,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/341682.jpg",
+        "description": "Tapa de pícea maciza Fondo y aros de Checker-tree macizo tratado térmicamente Mástil de cerezo/checker-tree tratados térmicamente"
+    },
+    {
+        "name": "1F Spruce Flamenco",
+        "brand": "Amalio Burguet",
+        "category": "concerto-guitar",
+        "price": 1.899,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/juan_hernandez.jpg",
+        "description": "Tapa de pícea alemana maciza Aros y fondo de ciprés macizo Clavijas de afinación doradas"
+    },
+    {
+        "name": "Santos Series C-40SCE B-Stock",
+        "brand": "Harley Benton",
+        "category": "concerto-guitar",
+        "price": 148,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/476392.jpg",
+        "description": "Serie Santos Modelo con Cutaway Tamaño del cuerpo Auditorium"
+    },
+    {
+        "name": "HE-Torres",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 3199,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/la_mancha.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de granadilla maciza Binding del fondo y de la tapa de granadilla"
+    },
+    {
+        "name": "50MC",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 79,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/437405.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de caoba maciza Mástil de cedro"
+    },
+    {
+        "name": "54PC",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.111,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/amalio_burguet.jpg",
+        "description": "Tapa de cedro Binding de la tapa de caoba Aros y fondo de palisandro macizo"
+    },
+    {
+        "name": "HE-Lattice",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 4098,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/276818.jpg",
+        "description": "Tapa de pícea maciza Refuerzos lattice arqueados y simétricos Binding de la tapa y fondo de granadilla"
+    },
+    {
+        "name": "Vanessa Cedar",
+        "brand": "Amalio Burguet",
+        "category": "concerto-guitar",
+        "price": 1.359,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de palisandro indio (dalbergia latifolia) macizo Diapasón de ébano"
+    },
+    {
+        "name": "Jade-Ny B-Stock",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 71,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/388675.jpg",
+        "description": "Con cutaway Tamaño: 4/4 Aros y fondo de nogal mazizo"
+    },
+    {
+        "name": "HE-Torres Cedar",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 3399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de cocobolo macizo Binding del fondo y de la tapa de granadilla"
+    },
+    {
+        "name": "R121-NT",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 179,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/459355.jpg",
+        "description": "Escala 4/4 Tapa de pícea con acabado en mate Fondo y aros de caoba"
+    },
+    {
+        "name": "55FCE Thinbody Negra",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 1.399,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/alhambra.jpg",
+        "description": "Cutaway Diapasón de ébano Tapa de pícea maciza"
+    },
+    {
+        "name": "TC132SC",
+        "brand": "Takamine",
+        "category": "concerto-guitar",
+        "price": 1.333,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/316534.jpg",
+        "description": "Con cutaway Tapa de cedro canadiense macizo Chapa del clavijero de palisandro (Dalbergia Latifolia)"
+    },
+    {
+        "name": "C 10 Crossover",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 1.069,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/cordoba.jpg",
+        "description": "Tapa de pícea europea maciza Aros y fondo de palisandro indio (Dalbergia Latifolia) macizo Mástil de caoba"
+    },
+    {
+        "name": "HF18",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 54,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/378899.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea maciza Cuerpo de laurel"
+    },
+    {
+        "name": "Romero Granito 32-AB",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 135,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tapa de pícea Aros y fondo de caoba (Entandrophragma Cylindricum) Mástil de caoba (Entandrophragma Cylindricum)"
+    },
+    {
+        "name": "NXT Nylon CW EQ Natural",
+        "brand": "Eko",
+        "category": "concerto-guitar",
+        "price": 169,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/448341.jpg",
+        "description": "Con cutaway Tapa de agathis Aros y fondo de agathis"
+    },
+    {
+        "name": "HM65-Z",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 65,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/la_mancha.jpg",
+        "description": "Tamaño 4/4 Serie Master Tapa de cedro macizo"
+    },
+    {
+        "name": "GNc4-SR",
+        "brand": "Furch",
+        "category": "concerto-guitar",
+        "price": 1.769,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/441078.jpg",
+        "description": "Con cutaway Tapa de pícea de Sitka maciza Aros y fondo de palisandro (Dalbergia Latifolia) macizo"
+    },
+    {
+        "name": "HM83",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 1.069,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Master Series Tapa de pícea maciza AAA seleccionada Aros y fondo de arce macizo flameado"
+    },
+    {
+        "name": "Natural-PF",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 1.699,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/369587.jpg",
+        "description": "Tapa de pícea maciza Aros y fondo de palisandro macizo Binding de la tapa y el fondo de palisandro"
+    },
+    {
+        "name": "GK Studio",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/raimundo.jpg",
+        "description": "Con sistema de pastilla Fishman Con cutaway Diapasón de palisandro (dalbergia latifolia)"
+    },
+    {
+        "name": "TC135SC",
+        "brand": "Takamine",
+        "category": "concerto-guitar",
+        "price": 1.690,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/448338.jpg",
+        "description": "Fabricada en Japón Con cutaway Tapa de pícea de Sitka maciza"
+    },
+    {
+        "name": "GK pro",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 1.555,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/la_mancha.jpg",
+        "description": "Toda maciza Sistema de pastilla Fishman Con cutaway"
+    },
+    {
+        "name": "50PC",
+        "brand": "Hanika",
+        "category": "concerto-guitar",
+        "price": 87,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/363465.jpg",
+        "description": "Tapa de cedro macizo Aros y fondo de palisandro macizo Mástil de cedro"
+    },
+    {
+        "name": "C9 Spruce",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 87,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ortega.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea europea maciza Aros y fondo de caoba maciza"
+    },
+    {
+        "name": "Pro Natura Gold 4/4",
+        "brand": "VGS",
+        "category": "concerto-guitar",
+        "price": 195,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/454967.jpg",
+        "description": "Fabricada en Europa Tapa de pícea Fondo y aros de arce"
+    },
+    {
+        "name": "RCE145WH",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/raimundo.jpg",
+        "description": "Modelo con Cutaway Tapa de pícea maciza Fondo y aros de caoba"
+    },
+    {
+        "name": "R131SN",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 258,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/430955.jpg",
+        "description": "Tapa de cedro macizo Fondo y aros de caoba Mástil de caoba"
+    },
+    {
+        "name": "F7 Flamenco",
+        "brand": "Cordoba",
+        "category": "concerto-guitar",
+        "price": 55,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ortega.jpg",
+        "description": "Diapasón de palisandro (dalbergia latifolia) Tapa de pícea maciza Aros y fondo de ciprés"
+    },
+    {
+        "name": "HM87-SE-0",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 1.266,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/379186.jpg",
+        "description": "Tamaño: 4/4 Tapa de pícea maciza seleccionada de la Selva Negra alemana Aros y fondo de nogal macizo"
+    },
+    {
+        "name": "CX40 II",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 19,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hanika.jpg",
+        "description": "Tapa de pícea Aros y fondo de meranti Mástil de nato"
+    },
+    {
+        "name": "C-404 NT Set",
+        "brand": "Thomann",
+        "category": "concerto-guitar",
+        "price": 8,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/245540.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea europea Fondo y aros de Okume (Aucoumea Klaineana)"
+    },
+    {
+        "name": "C40",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 124,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/yamaha.jpg",
+        "description": "Tapa de pícea Aros y fondo de meranti (Shorea macrophylla) Mástil de nato"
+    },
+    {
+        "name": "C80",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 189,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/463620.jpg",
+        "description": "Tapa de pícea Fondo y aros de Nato Mástil de Nato"
+    },
+    {
+        "name": "CGX 122 MCC",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 39,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/ortega.jpg",
+        "description": "Con cutaway Tapa de cedro rojo occidental macizo Aros y fondo de nato"
+    },
+    {
+        "name": "R121SN NT",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 181,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/369581.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea con acabado mate Fondo y aros de caoba (Entandrophragma cylindricum)"
+    },
+    {
+        "name": "HBO-850 Classic Black",
+        "brand": "Harley Benton",
+        "category": "concerto-guitar",
+        "price": 9,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/raimundo.jpg",
+        "description": "Roundback Con cutaway Tapa de pícea"
+    },
+    {
+        "name": "TH90",
+        "brand": "Takamine",
+        "category": "concerto-guitar",
+        "price": 1.666,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/427159.jpg",
+        "description": "Trabajada a mano con Cutaway Tapa de pícea Sitka maciza Pala de palisandro (Dalbergia Latifolia)"
+    },
+    {
+        "name": "R131 Classical Guitar",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 24,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Tapa de cedro macizo Fondo y aros de caoba Mástil de caoba"
+    },
+    {
+        "name": "Rubi CM-N",
+        "brand": "La Mancha",
+        "category": "concerto-guitar",
+        "price": 249,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/438250.jpg",
+        "description": "Tamaño: 4/4 Mástil pequeño Tapa de cedro canadiense macizo"
+    },
+    {
+        "name": "RCE125SN",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 272,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/hofner.jpg",
+        "description": "Con cutaway Tapa de pícea con acabado satinado Aros y fondo de caoba con acabado satinado"
+    },
+    {
+        "name": "LTD TL-6N Nylon",
+        "brand": "ESP",
+        "category": "concerto-guitar",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/369571.jpg",
+        "description": "Con pastilla Proporciona tonos acústicos con la comodidad y la sensación de una guitarra eléctrica Tapa de pícea"
+    },
+    {
+        "name": "R121SN WH",
+        "brand": "Ortega",
+        "category": "concerto-guitar",
+        "price": 189,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/raimundo.jpg",
+        "description": "Tamaño 4/4 Mástil pequeño Tapa de pícea brillante"
+    },
+    {
+        "name": "CG-TA NT Transacoustic",
+        "brand": "Yamaha",
+        "category": "concerto-guitar",
+        "price": 59,
+        "image": "https://thumbs.static-thomann.de/thumb/thumb150x150/pics/prod/341676.jpg",
+        "description": "Tamaño 4/4 Tapa de pícea Engelmann maciza Fondo y aros Ovangkol"
+    },
+    {
+        "name": "HZ25",
+        "brand": "Höfner",
+        "category": "concerto-guitar",
+        "price": 47,
+        "image": "https://thumbs.static-thomann.de/thumb/ethumb105x40/pics/herstlogos/juan_hernandez.jpg",
+        "description": "Tamaño 4/4 Tapa de cedro macizo de grado AAA Aros y fondo de caoba acolchada"
+    }
+]
