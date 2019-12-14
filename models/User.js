@@ -26,7 +26,7 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       allowNull: false
     },
-    creditardNumber: {
+    creditcardNumber: {
       type: DataTypes.STRING,
       allowNull: false
     },
@@ -41,6 +41,13 @@ module.exports = (sequelize, DataTypes) => {
   }, {});
   User.associate = function (models) {
     User.hasMany(models.Invoice);
+    User.belongsTo(models.Role,{
+      foreignKey: {
+        allowNull:false,
+        onDelete: 'CASCADE',
+        defaultValue:3
+      }
+    })
     // associations can be defined here
   };
 

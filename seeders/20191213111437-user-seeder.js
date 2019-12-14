@@ -2,20 +2,11 @@
 const fs = require('fs');
 const User = require('../models/User')
 
-const db = JSON.parse(fs.readFileSync('./db/userDb.json', 'utf-8'));
+const db = JSON.parse(fs.readFileSync('./db/userDB.json', 'utf-8'));
 
 module.exports = {
   up: (queryInterface, Sequelize) => {
-    /*
-      Add altering commands here.
-      Return a promise to correctly handle asynchronicity.
-
-      Example:
-      return queryInterface.bulkInsert('People', [{
-        name: 'John Doe',
-        isBetaMember: false
-      }], {});
-    */
+    
    let mapped = db.map(user => ({
     userName: user.userName,
     password: user.password,
@@ -35,13 +26,7 @@ module.exports = {
   },
 
   down: (queryInterface, Sequelize) => {
-    /*
-      Add reverting commands here.
-      Return a promise to correctly handle asynchronicity.
-
-      Example:
-      return queryInterface.bulkDelete('People', null, {});
-    */
+    
    return User.destroy({where: {}})
   }
 };
