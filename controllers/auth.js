@@ -20,12 +20,14 @@ async function registerController(req, res, next) {
     console.log(error);
 
     if (error.message === 'invalidPasswordError') {
+      console.log("invalid password")
       return res.status(400).json({
         message: 'invalid password',
         error: error,
       });
     }
     if (error.name === 'SequelizeUniqueConstraintError') {
+      console.log("name already exists")
       return res.status(400).json({
         message: 'register invalid',
         error: error.errors[0].message,

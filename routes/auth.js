@@ -11,6 +11,7 @@ const {
 } = require('../controllers/auth.js');
 
 /* GET users listing. */
+
 router.post('/register', registerController);
 router.post('/login', loginController);
 router.get('/logout', authorizationMiddleware, logoutController);
