@@ -33,3 +33,8 @@ Content-Type: application/json
 GET {{baseUrl}}/auth/logout
 Accept: application/json
 Authorization: {{authorization}}
+
+
+###
+
+GET {{baseUrl}}/allProducts

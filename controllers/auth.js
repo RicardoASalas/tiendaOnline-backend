@@ -5,6 +5,7 @@ const {
   comparePassword,
   createJWT
 } = require('../services/authorization');
+
 async function registerController(req, res, next) {
   try {
     console.log(req.body)
