@@ -1,7 +1,7 @@
 const { Product } = require('../models');
 
 async function allProductController(req,res, next){
-    console.log("entra aqui")
+
     try{
         const products = await Product.findAll({});
         res.status(200).send(products);
@@ -13,7 +13,28 @@ async function allProductController(req,res, next){
 
 }
 
+async function productByCategoryController(req,res, next){
+
+    try{
+        const categoryInput = new RegExp(req.brand,'i');
+        const products = await Product.findAll({
+            
+            where:{
+                 category: categoryInput
+                }
+        });
+        
+        res.status(200).send(products);
+    }
+    catch(err){
+        console.log(err);
+
+    }
+
+}
+
 module.exports = {
-    allProductController
+    allProductController,
+    productByCategoryController
   };
 

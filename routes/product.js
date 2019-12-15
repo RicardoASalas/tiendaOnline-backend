@@ -3,11 +3,13 @@ var router = express.Router();
 
 const {
 
-    allProductController
+    allProductController,
+    productByCategoryController
   } = require('../controllers/product.js');
   
   /* GET products listing. */
 
 router.get('/allProduct', allProductController);
+router.get('/allProduct', productByCategoryController);
 
 module.exports = router;

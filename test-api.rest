@@ -36,5 +36,13 @@ Authorization: {{authorization}}
 
 
 ###
+GET {{baseUrl}}/product/allProduct
 
-GET {{baseUrl}}/allProducts
+###
+GET {{baseUrl}}/product/allProduct
+Content-Type: application/json
+
+{
+    "category": "electric-guitar"
+}
+
