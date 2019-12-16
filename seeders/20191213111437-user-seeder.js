@@ -20,7 +20,6 @@ module.exports = {
     updatedAt: new Date
   })
   )
-  console.log(mapped);
   
    return queryInterface.bulkInsert('Users', mapped)
   },
