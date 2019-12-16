@@ -52,6 +52,6 @@ app.use('/product', productRouter)
 //   res.render('error');
 // });
 
-db.sequelize.sync({ /*force: true*/ });
+db.sequelize.sync({ /* force: true */ });
 
 module.exports = app;

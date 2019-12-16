@@ -1,4 +1,4 @@
-@baseUrl =http://localhost:3000
+@baseUrl =http://localhost:3001
 @authorization = Bearer {{login.response.body.token}}
 
 
@@ -9,10 +9,14 @@ Accept: application/json
 Content-Type: application/json
 
 {
-    "userName": "holaamigos",
-    "email": "juan2@geekshubs.om",
-    "password": "qwerty:A12",
-    "country": "Japan"
+    "userName": "RodXIII",
+    "email": "rodri@badass.cool",
+    "address":"calle de la gominola, escalera piruleta",
+    "password": "123456Az",
+    "country": "Spain",
+    "creditcardNumber":111111111111111111111,
+    "creditcardType":"gastamas",
+    "RoleId":1
 }
 
 
@@ -24,8 +28,8 @@ Accept: application/json
 Content-Type: application/json
 
 {
-    "email": "juan2@geekshubs.om",
-    "password": "qwerty:A12"
+    "email": "rodri@badass.cool",
+    "password": "123456Az"
 }
 
 
