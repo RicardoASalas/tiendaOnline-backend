@@ -43,6 +43,7 @@ module.exports = (sequelize, DataTypes) => {
     User.hasMany(models.Invoice);
     User.belongsTo(models.Role,{
       foreignKey: {
+        
         allowNull:false,
         onDelete: 'CASCADE',
         defaultValue:3
