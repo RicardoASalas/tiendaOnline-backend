@@ -50,3 +50,39 @@ Content-Type: application/json
     "category": "electric-guitar"
 }
 
+
+###
+
+GET {{baseUrl}}/inv/invoices
+Content-Type: application/json
+
+
+###
+
+GET {{baseUrl}}/inv/invoice-id
+Content-Type: application/json
+
+{
+    "id": 1
+}
+
+
+
+###
+
+GET {{baseUrl}}/inv/invoice-user
+Content-Type: application/json
+
+{
+    "UserId": 152
+}
+
+
+###
+
+GET {{baseUrl}}/inv/invoice-product
+Content-Type: application/json
+
+{
+    "ProductId": 666
+}
