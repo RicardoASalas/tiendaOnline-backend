@@ -39,15 +39,22 @@ Accept: application/json
 Authorization: {{authorization}}
 
 
+
+###
+GET {{baseUrl}}/auth/152
+Accept: application/json
+Authorization: {{authorization}}
+
+
 ###
 GET {{baseUrl}}/product/allProduct
 
 ###
-GET {{baseUrl}}/product/allProduct
+GET {{baseUrl}}/product/search
 Content-Type: application/json
 
 {
-    "category": "electric-guitar"
+    "":"lk"
 }
 
 

@@ -1,4 +1,6 @@
 const { Product } = require('../models');
+const Sequelize = require('sequelize');
+const Op = Sequelize.Op;
 
 async function allProductController(req,res, next){
 
@@ -13,14 +15,15 @@ async function allProductController(req,res, next){
 
 }
 
-async function productByCategoryController(req,res, next){
+async function productByNameController(req,res, next){
 
     try{
-        const categoryInput = new RegExp(req.brand,'i');
         const products = await Product.findAll({
             
             where:{
-                 category: categoryInput
+                 name:{
+                     [Op.like]: `%${req.body.name}%`
+                 } 
                 }
         });
         
@@ -35,6 +38,6 @@ async function productByCategoryController(req,res, next){
 
 module.exports = {
     allProductController,
-    productByCategoryController
+    productByNameController
   };
 

@@ -4,12 +4,17 @@ var router = express.Router();
 const {
 
     allProductController,
-    productByCategoryController
+   // productByCategoryController,
+    productByNameController
   } = require('../controllers/product.js');
   
   /* GET products listing. */
 
 router.get('/allProduct', allProductController);
-router.get('/allProduct', productByCategoryController);
+//router.get('/cat/:category', productByCategoryController);
+router.get('/search', productByNameController);
+
+
+
 
 module.exports = router;
