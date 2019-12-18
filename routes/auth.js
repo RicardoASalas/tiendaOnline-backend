@@ -8,6 +8,7 @@ const {
   registerController,
   loginController,
   logoutController,
+  profileController
 } = require('../controllers/auth.js');
 
 /* GET users listing. */
@@ -15,5 +16,6 @@ const {
 router.post('/register', registerController);
 router.post('/login', loginController);
 router.get('/logout', authorizationMiddleware, logoutController);
+router.get('/:id', authorizationMiddleware, profileController);
 
 module.exports = router;

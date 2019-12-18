@@ -94,8 +94,21 @@ async function logoutController(req, res, next) {
   }
 }
 
+async function profileController(req, res, next) {
+  try {
+ 
+    const user = await User.findByPk(req.user.id);
+
+    res.status(200).send(user);
+} catch (err) {
+    console.log(err);
+
+}
+}
+
 module.exports = {
   registerController,
   loginController,
   logoutController,
+  profileController
 };
