@@ -5,14 +5,14 @@ const {
 
     allProductController,
    // productByCategoryController,
-    productByNameController
+    productSearchController
   } = require('../controllers/product.js');
   
   /* GET products listing. */
 
 router.get('/allProduct', allProductController);
 //router.get('/cat/:category', productByCategoryController);
-router.get('/search', productByNameController);
+router.get('/search/:input', productSearchController);
 
 
 

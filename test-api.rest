@@ -50,12 +50,9 @@ Authorization: {{authorization}}
 GET {{baseUrl}}/product/allProduct
 
 ###
-GET {{baseUrl}}/product/search
+GET {{baseUrl}}/product/search/michael
 Content-Type: application/json
 
-{
-    "":"lk"
-}
 
 
 ###
