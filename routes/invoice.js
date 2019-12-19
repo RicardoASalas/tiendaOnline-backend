@@ -1,5 +1,8 @@
 var express = require('express');
 var router = express.Router();
+const {
+    authorizationMiddleware,
+  } = require('../middlewares/auth');
 
 const {
     getAllInvoicesController,
@@ -10,11 +13,11 @@ const {
     orderController
 } = require('../controllers/invoice');
 
-router.get('/invoices', getAllInvoicesController);
-router.get('/invoice-id', getInvoiceByIdController);
-router.get('/invoice-user', getInvoiceByUserController);
-router.get('/invoice-amount', getInvoiceByAmountController);
-router.get('/invoice-product', getInvoiceByProductController);
-router.post('/order', orderController);
+router.get('/invoices',authorizationMiddleware, getAllInvoicesController);
+router.get('/num/:id',authorizationMiddleware, getInvoiceByIdController);
+router.get('/myproducts',authorizationMiddleware, getInvoiceByUserController);
+router.get('/amount',authorizationMiddleware, getInvoiceByAmountController);
+router.get('/product',authorizationMiddleware, getInvoiceByProductController);
+router.post('/order',authorizationMiddleware, orderController);
 
 module.exports = router;

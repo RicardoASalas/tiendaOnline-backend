@@ -41,7 +41,7 @@ Authorization: {{authorization}}
 
 
 ### PROFILE
-GET {{baseUrl}}/auth/152
+GET {{baseUrl}}/auth/151
 Accept: application/json
 Authorization: {{authorization}}
 
@@ -81,57 +81,52 @@ Content-Type: application/json
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /////////////INVOICES////////////////////
 ###
 
 GET {{baseUrl}}/inv/invoices
-Content-Type: application/json
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+###
+
+GET {{baseUrl}}/inv/num/2
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
 
 
 ###
 
-GET {{baseUrl}}/inv/invoice-id
-Content-Type: application/json
-
+GET {{baseUrl}}/inv/myproducts
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
 {
-    "id": 1
-}
-
-
-
-###
-
-GET {{baseUrl}}/inv/invoice-user
-Content-Type: application/json
-
-{
-    "UserId": 152
+    "UserId": 151
 }
 
 
 ###
 
 GET {{baseUrl}}/inv/invoice-product
-Content-Type: application/json
-
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
 {
     "ProductId": 666
+}
+
+
+###
+POST {{baseUrl}}/inv/order
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "totalAmount":  120,
+    "products": [11,11,234,356]
 }

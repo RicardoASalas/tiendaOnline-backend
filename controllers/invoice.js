@@ -1,15 +1,19 @@
 const {
-    Invoice
+    Invoice,
+    Product
 } = require('../models');
-
+const Op = require('sequelize').Op;
 
 async function getAllInvoicesController(req, res, next) {
 
     try {
-        const invoices = await Invoice.findAll({});
+        const invoices = await Invoice.findAll({
+            include: [Product]
+        });
         res.status(200).send(invoices);
-    } catch (err) {
-        console.log(err);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json(error);
 
     }
 
@@ -18,15 +22,16 @@ async function getAllInvoicesController(req, res, next) {
 async function getInvoiceByIdController(req, res, next) {
 
     try {
-        const id = req.body.id
         const invoices = await Invoice.findAll({
             where: {
-                id
-            }
-        });
-        res.status(200).send(invoices);
-    } catch (err) {
-        console.log(err);
+                id: req.params.id
+            },
+            include: [ { model: Product, as: 'products' } ]
+        }, );
+        res.json(invoices);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json(error);
 
     }
 
@@ -35,16 +40,17 @@ async function getInvoiceByIdController(req, res, next) {
 async function getInvoiceByUserController(req, res, next) {
 
     try {
-        const userId = req.body.UserId
         const invoices = await Invoice.findAll({
             where: {
-                UserId: userId
-            }
+                UserId: req.user.id
+            },
+            include: [Product],
         });
-        
+
         res.status(200).send(invoices);
-    } catch (err) {
-        console.log(err);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json(error);
 
     }
 
@@ -62,8 +68,9 @@ async function getInvoiceByAmountController(req, res, next) {
             }
         });
         res.status(200).send(invoices);
-    } catch (err) {
-        console.log(err);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json(error);
 
     }
 
@@ -74,13 +81,15 @@ async function getInvoiceByProductController(req, res, next) {
     try {
         const productId = req.body.ProductId
         const invoices = await Invoice.findAll({
-            JOIN: 'Invoice_Products', ON: {
+            JOIN: 'Invoice_Products',
+            ON: {
                 ProductId: productId
             }
         });
         res.status(200).send(invoices);
-    } catch (err) {
-        console.log(err);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json(error);
 
     }
 }
@@ -88,15 +97,31 @@ async function getInvoiceByProductController(req, res, next) {
 async function orderController(req, res, next) {
 
     try {
-        console.log(req.body)
+        const body = req.body;
 
-        const invoice = await Invoice.create(req.body);
-        res.status(200).json({
-            message: 'order done',
-            invoice: invoice,
+        const products = await Product.findAll({
+            where: {
+                id: {
+                    [Op.in]: body.products,
+                },
+            },
+            //   include: [ { model: Invoice, as: 'invoices' } ]
         });
+        console.log('hola')
+        // const allProducts = body.products.map(id => {
+        //   return products.find(p => p.id === id);
+        // });
+        const order = await Invoice.create({
+            UserId: req.user.id,
+            status: 'complete',
+            totalAmount: body.totalAmount,
+        });
+        await order.addProducts(products);
+
+        res.status(200).send(order);;
     } catch (error) {
-        console.log(error);
+        console.log(error)
+        res.status(500).json(error);
     }
 }
 
