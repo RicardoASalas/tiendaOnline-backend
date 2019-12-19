@@ -1,7 +1,7 @@
 @baseUrl =http://localhost:3001
 @authorization = Bearer {{login.response.body.token}}
 
-
+///////////////USERS ENDPOINTS/////////////////
 ### REGISTER
 # @name register
 POST {{baseUrl}}/auth/register
@@ -33,28 +33,73 @@ Content-Type: application/json
 }
 
 
-###
+### LOGOUT
 GET {{baseUrl}}/auth/logout
 Accept: application/json
 Authorization: {{authorization}}
 
 
 
-###
+### PROFILE
 GET {{baseUrl}}/auth/152
 Accept: application/json
 Authorization: {{authorization}}
 
 
-###
+
+
+
+////////////////////PRODUCTS//////////////////
+### GET ALL
 GET {{baseUrl}}/product/allProduct
 
-###
+
+
+### PRODUCT BY ID
+GET {{baseUrl}}/product/id/355
+Content-Type: application/json
+
+
+
+### CATEGORY
+GET {{baseUrl}}/product/cat/drums
+Content-Type: application/json
+
+
+
+### BRAND
+GET {{baseUrl}}/product/br/fender
+Content-Type: application/json
+
+
+
+### SEARCH
 GET {{baseUrl}}/product/search/michael
 Content-Type: application/json
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////INVOICES////////////////////
 ###
 
 GET {{baseUrl}}/inv/invoices

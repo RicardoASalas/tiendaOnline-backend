@@ -16,6 +16,58 @@ async function allProductController(req, res, next) {
 
 }
 
+async function idProductController(req, res, next) {
+    try {
+
+        const product = await Product.findByPk(req.params.id);
+
+        res.status(200).send(product);
+    } catch (err) {
+        console.log(err);
+
+    }
+}
+
+async function productCategoryController(req, res, next) {
+
+    try {
+        const products = await Product.findAll({
+
+            where: {
+                category: req.params.category
+            }
+
+
+        })
+
+        res.status(200).send(products);
+    } catch (err) {
+        console.log(err);
+
+    }
+
+}
+
+async function productBrandController(req, res, next) {
+
+    try {
+        const products = await Product.findAll({
+
+            where: {
+                brand: req.params.brand
+            }
+
+
+        })
+
+        res.status(200).send(products);
+    } catch (err) {
+        console.log(err);
+
+    }
+
+}
+
 async function productSearchController(req, res, next) {
 
     try {
@@ -56,5 +108,8 @@ async function productSearchController(req, res, next) {
 
 module.exports = {
     allProductController,
-    productSearchController
+    idProductController,
+    productCategoryController,
+    productBrandController,
+    productSearchController,
 };

@@ -3,15 +3,19 @@ var router = express.Router();
 
 const {
 
-    allProductController,
-   // productByCategoryController,
-    productSearchController
-  } = require('../controllers/product.js');
-  
-  /* GET products listing. */
+  allProductController,
+  idProductController,
+  productCategoryController,
+  productBrandController,
+  productSearchController,
+} = require('../controllers/product.js');
+
+/* GET products listing. */
 
 router.get('/allProduct', allProductController);
-//router.get('/cat/:category', productByCategoryController);
+router.get('/id/:id', idProductController);
+router.get('/cat/:category', productCategoryController);
+router.get('/br/:brand', productBrandController);
 router.get('/search/:input', productSearchController);
 
 
