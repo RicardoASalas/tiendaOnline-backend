@@ -4,8 +4,7 @@ module.exports = (sequelize, DataTypes) => {
     ProductId: DataTypes.INTEGER,
     InvoiceId: DataTypes.INTEGER
   }, {});
-/*   Invoice_Product.associate = function(models) {
-    // associations can be defined here
-  }; */
+
+  
   return Invoice_Product;
 };
