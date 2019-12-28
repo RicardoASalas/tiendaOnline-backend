@@ -140,7 +140,11 @@ async function orderController(req, res, next) {
             })
         })
         
-
+        await products.forEach(function(product, i) {
+            product.update({
+                stock: product.stock - body.Quantity[i]
+            })
+        })
         
         res.status(200).send(order);
     } catch (error) {
