@@ -106,7 +106,7 @@ async function orderController(req, res, next) {
         const products = await Product.findAll({
             where: {
                 id: {
-                    [Op.in]: body.products,
+                    [Op.in]: Object.keys(body.products),
                 },
             }
         });
@@ -128,21 +128,21 @@ async function orderController(req, res, next) {
         const invoiceProducts = await Invoice_Product.findAll({
             where: {
                 productId: {
-                    [Op.in]: body.products,
+                    [Op.in]: Object.keys(body.products),
                 },
                 invoiceId: order.id
             }
         });
 
-        await invoiceProducts.forEach(function(invoiceProduct, i) {
+        await invoiceProducts.forEach(function(invoiceProduct) {
             invoiceProduct.update({
-                Quantity: body.Quantity[i]
+                Quantity: body.products[invoiceProduct.ProductId]
             })
         })
         
-        await products.forEach(function(product, i) {
+        await products.forEach(function(product) {
             product.update({
-                stock: product.stock - body.Quantity[i]
+                stock: product.stock - body.products[product.id]
             })
         })
         

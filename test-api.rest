@@ -130,6 +130,6 @@ Authorization: {{authorization}}
 
 {
     "totalAmount":  120,
-    "products": [11,234,356],
-    "Quantity": [2,1,1]
+    "products": { "113": 2, "23": 1, "35": 3 }
 }
+
