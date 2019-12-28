@@ -125,7 +125,7 @@ async function orderController(req, res, next) {
 
         await order.addProducts(products);
 
-        const quant = await Invoice_Product.findAll({
+        const invoiceProducts = await Invoice_Product.findAll({
             where: {
                 productId: {
                     [Op.in]: body.products,
@@ -134,8 +134,8 @@ async function orderController(req, res, next) {
             }
         });
 
-        await quant.forEach(function(item, i) {
-            item.update({
+        await invoiceProducts.forEach(function(invoiceProduct, i) {
+            invoiceProduct.update({
                 Quantity: body.Quantity[i]
             })
         })
