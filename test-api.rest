@@ -74,8 +74,8 @@ Content-Type: application/json
 
 
 ### SEARCH
-GET {{baseUrl}}/product/search/michael
-Content-Type: application/json
+GET {{baseUrl}}/product/search/sq2
+
 
 
 
@@ -91,7 +91,7 @@ Authorization: {{authorization}}
 
 ###
 
-GET {{baseUrl}}/inv/num/2
+GET {{baseUrl}}/inv/num/36
 Content-type: application/json
 Accept: application/json
 Authorization: {{authorization}}
@@ -104,6 +104,7 @@ GET {{baseUrl}}/inv/myproducts
 Content-type: application/json
 Accept: application/json
 Authorization: {{authorization}}
+
 {
     "UserId": 151
 }
@@ -115,8 +116,9 @@ GET {{baseUrl}}/inv/invoice-product
 Content-type: application/json
 Accept: application/json
 Authorization: {{authorization}}
+
 {
-    "ProductId": 666
+    "ProductId": 1
 }
 
 
@@ -128,5 +130,6 @@ Authorization: {{authorization}}
 
 {
     "totalAmount":  120,
-    "products": [11,11,234,356]
+    "products": [11,234,356],
+    "Quantity": [2,1,3]
 }

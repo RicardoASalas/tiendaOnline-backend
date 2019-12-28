@@ -1,6 +1,7 @@
 const {
     Invoice,
-    Product
+    Product,
+    Invoice_Product
 } = require('../models');
 const Op = require('sequelize').Op;
 
@@ -26,7 +27,10 @@ async function getInvoiceByIdController(req, res, next) {
             where: {
                 id: req.params.id
             },
-            include: [ { model: Product, as: 'products' } ]
+            include: [{
+                model: Product,
+                as: 'products'
+            }]
         }, );
         res.json(invoices);
     } catch (error) {
@@ -39,14 +43,14 @@ async function getInvoiceByIdController(req, res, next) {
 
 async function getInvoiceByUserController(req, res, next) {
 
+    console.log(req)
     try {
         const invoices = await Invoice.findAll({
             where: {
-                UserId: req.user.id
+                UserId: req.body.UserId
             },
-            include: [Product],
+            include: ['products']
         });
-
         res.status(200).send(invoices);
     } catch (error) {
         console.error(error);
@@ -98,27 +102,47 @@ async function orderController(req, res, next) {
 
     try {
         const body = req.body;
-
+        
         const products = await Product.findAll({
             where: {
                 id: {
                     [Op.in]: body.products,
                 },
-            },
-            //   include: [ { model: Invoice, as: 'invoices' } ]
+            }
         });
-        console.log('hola')
-        // const allProducts = body.products.map(id => {
-        //   return products.find(p => p.id === id);
-        // });
+
+
         const order = await Invoice.create({
             UserId: req.user.id,
             status: 'complete',
             totalAmount: body.totalAmount,
+/*             include: [{
+                model: Invoice_Product,
+                as: 'invoices',
+                Quantity: body.Quantity
+            }] */
         });
+
         await order.addProducts(products);
 
-        res.status(200).send(order);;
+        const quant = await Invoice_Product.findAll({
+            where: {
+                productId: {
+                    [Op.in]: body.products,
+                },
+                invoiceId: order.id
+            }
+        });
+
+        await quant.forEach(function(item, i) {
+            item.update({
+                Quantity: body.Quantity[i]
+            })
+        })
+        
+
+        
+        res.status(200).send(order);
     } catch (error) {
         console.log(error)
         res.status(500).json(error);
