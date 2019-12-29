@@ -63,6 +63,7 @@ async function loginController(req, res, next) {
       username: user.username,
       email: user.email,
       id: user.id,
+      roleId: user.RoleId
     };
     user.token = await createJWT(data);
     await  user.save();
