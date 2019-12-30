@@ -11,6 +11,7 @@ const {
   productCategoryController,
   productBrandController,
   productSearchController,
+  editProductController
 } = require('../controllers/product.js');
 
 /* GET products listing. */
@@ -21,7 +22,7 @@ router.get('/cat/:category', productCategoryController);
 router.get('/br/:brand', productBrandController);
 router.get('/search/:input', productSearchController);
 router.post('/create',authorizationMiddleware, addProductController);
-
+router.patch('/edit/:id',authorizationMiddleware, editProductController);
 
 
 

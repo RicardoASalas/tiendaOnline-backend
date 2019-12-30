@@ -128,11 +128,30 @@ async function addProductController(req, res, next) {
     }
 }
 
+async function editProductController(req, res, next) {
+    try {
+         const product = await Product.findByPk(req.params.id);
+          
+         await product.update(req.body);
+
+         res.json({
+             message:'product modified',
+             product
+        });
+    } catch (error) {
+        console.log('error', error)
+        res.status(500).json({message: 'ups'})
+    }
+  }
+
+
+
 module.exports = {
     allProductController,
     idProductController,
     productCategoryController,
     productBrandController,
     productSearchController,
-    addProductController
+    addProductController,
+    editProductController
 };

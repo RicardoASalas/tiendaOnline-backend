@@ -97,6 +97,31 @@ Authorization: {{authorization}}
   }
 
 
+
+
+### EDIT PRODUCT
+
+PATCH  {{baseUrl}}/product/edit/501
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "stock": 100
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 /////////////INVOICES////////////////////
 ###
 
