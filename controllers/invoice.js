@@ -42,19 +42,18 @@ async function getInvoiceByIdController(req, res, next) {
 }
 
 async function getInvoiceByUserController(req, res, next) {
-
-    console.log(req)
+    console.log("el id es: "+req.params.UserId)
     try {
         const invoices = await Invoice.findAll({
             where: {
-                UserId: req.body.UserId
+                UserId: req.params.UserId
             },
             include: ['products']
         });
         res.status(200).send(invoices);
     } catch (error) {
-        console.error(error);
-        res.status(500).json(error);
+        // console.error(error);
+        // res.status(500).json(error);
 
     }
 

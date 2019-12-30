@@ -15,7 +15,7 @@ const {
 
 router.get('/invoices',authorizationMiddleware, getAllInvoicesController);
 router.get('/num/:id',authorizationMiddleware, getInvoiceByIdController);
-router.get('/myproducts',/* authorizationMiddleware,  */getInvoiceByUserController);
+router.get('/myproducts/:UserId',/* authorizationMiddleware,  */getInvoiceByUserController);
 router.get('/amount',authorizationMiddleware, getInvoiceByAmountController);
 router.get('/product',authorizationMiddleware, getInvoiceByProductController);
 router.post('/order',authorizationMiddleware, orderController);
