@@ -108,7 +108,7 @@ async function productSearchController(req, res, next) {
 
 }
 
-async function editProductController(req, res, next) {
+async function addProductController(req, res, next) {
 
     try {
 
@@ -134,5 +134,5 @@ module.exports = {
     productCategoryController,
     productBrandController,
     productSearchController,
-    editProductController
+    addProductController
 };

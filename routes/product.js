@@ -5,7 +5,7 @@ const {
 } = require('../middlewares/auth');
 
 const {
-  editProductController,
+  addProductController,
   allProductController,
   idProductController,
   productCategoryController,
@@ -20,7 +20,7 @@ router.get('/id/:id', idProductController);
 router.get('/cat/:category', productCategoryController);
 router.get('/br/:brand', productBrandController);
 router.get('/search/:input', productSearchController);
-router.post('/create',authorizationMiddleware, editProductController);
+router.post('/create',authorizationMiddleware, addProductController);
 
 
 
