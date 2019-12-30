@@ -13,7 +13,7 @@ const {
     orderController
 } = require('../controllers/invoice');
 
-router.get('/invoices',authorizationMiddleware, getAllInvoicesController);
+router.get('/invoices',getAllInvoicesController);
 router.get('/num/:id',authorizationMiddleware, getInvoiceByIdController);
 router.get('/myproducts/:UserId',/* authorizationMiddleware,  */getInvoiceByUserController);
 router.get('/amount',authorizationMiddleware, getInvoiceByAmountController);

@@ -9,7 +9,7 @@ async function getAllInvoicesController(req, res, next) {
 
     try {
         const invoices = await Invoice.findAll({
-            include: [Product]
+            include: ['products']
         });
         res.status(200).send(invoices);
     } catch (error) {
