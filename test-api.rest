@@ -79,6 +79,22 @@ GET {{baseUrl}}/product/search/sq2
 
 
 
+### CREATE PRODUCT
+
+POST {{baseUrl}}/product/create
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "name": "Richi Special Guitar",
+    "brand": "Fender",
+    "category": "concerto-guitar",
+    "price": 12999,
+    "image": "https://scirescience.files.wordpress.com/2014/12/pikasso-guitar.jpg",
+    "description": "Guitarra mega guay",
+    "stock": 10
+  }
 
 
 /////////////INVOICES////////////////////

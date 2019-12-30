@@ -16,6 +16,8 @@ async function allProductController(req, res, next) {
 
 }
 
+
+
 async function idProductController(req, res, next) {
     try {
 
@@ -106,10 +108,31 @@ async function productSearchController(req, res, next) {
 
 }
 
+async function editProductController(req, res, next) {
+
+    try {
+
+        const NewProduct = await Product.create(req.body);
+        
+        res.status(200).send({
+            message: 'Product created',
+            NewProduct
+        });
+
+    } catch (error) {
+        console.log(error)
+        res.status(500).json({
+            message: "Product don't created",
+            error: error,
+          });
+    }
+}
+
 module.exports = {
     allProductController,
     idProductController,
     productCategoryController,
     productBrandController,
     productSearchController,
+    editProductController
 };
