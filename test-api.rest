@@ -1,0 +1,176 @@
+@baseUrl =http://localhost:3001
+@authorization = Bearer {{login.response.body.token}}
+
+///////////////USERS ENDPOINTS/////////////////
+### REGISTER
+# @name register
+POST {{baseUrl}}/auth/register
+Accept: application/json
+Content-Type: application/json
+
+{
+    "userName": "RodXIII",
+    "email": "rodri@badass.cool",
+    "address":"calle de la gominola, escalera piruleta",
+    "password": "123456Az",
+    "country": "Spain",
+    "creditcardNumber":111111111111111111111,
+    "creditcardType":"gastamas",
+    "RoleId":1
+}
+
+
+
+### LOGIN
+# @name login
+POST {{baseUrl}}/auth/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "rodri@badass.cool",
+    "password": "123456Az"
+}
+
+
+### LOGOUT
+GET {{baseUrl}}/auth/logout
+Accept: application/json
+Authorization: {{authorization}}
+
+
+
+### PROFILE
+GET {{baseUrl}}/auth/151
+Accept: application/json
+Authorization: {{authorization}}
+
+
+
+
+
+////////////////////PRODUCTS//////////////////
+### GET ALL
+GET {{baseUrl}}/product/allProduct
+
+
+
+### PRODUCT BY ID
+GET {{baseUrl}}/product/id/355
+Content-Type: application/json
+
+
+
+### CATEGORY
+GET {{baseUrl}}/product/cat/drums
+Content-Type: application/json
+
+
+
+### BRAND
+GET {{baseUrl}}/product/br/fender
+Content-Type: application/json
+
+
+
+### SEARCH
+GET {{baseUrl}}/product/search/sq2
+
+
+
+
+### CREATE PRODUCT
+
+POST {{baseUrl}}/product/create
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "name": "Richi Special Guitar",
+    "brand": "Fender",
+    "category": "concerto-guitar",
+    "price": 12999,
+    "image": "https://scirescience.files.wordpress.com/2014/12/pikasso-guitar.jpg",
+    "description": "Guitarra mega guay",
+    "stock": 10
+  }
+
+
+
+
+### EDIT PRODUCT
+
+PATCH  {{baseUrl}}/product/edit/501
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "stock": 100
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////INVOICES////////////////////
+###
+
+GET {{baseUrl}}/inv/invoices
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+###
+
+GET {{baseUrl}}/inv/num/36
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+
+
+###
+
+GET {{baseUrl}}/inv/myproducts
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "UserId": 151
+}
+
+
+###
+
+GET {{baseUrl}}/inv/invoice-product
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "ProductId": 1
+}
+
+
+###
+POST {{baseUrl}}/inv/order
+Content-type: application/json
+Accept: application/json
+Authorization: {{authorization}}
+
+{
+    "totalAmount":  120,
+    "products": { "113": 2, "23": 1, "35": 3 }
+}
+
